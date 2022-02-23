@@ -1,0 +1,1019 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Festa Anglo-Romana, or, The feasts of the English and Roman church, with their fasts and vigils being an exact and concise accompt of their various etymologies and appellations, with the reasons and grounds of their celebration : together with a succinct discourse of several other grand days in the universities, Inns of courts, and the collar and offering days at White-Hall, tending, to the instruction of all persons in all capacities, and the dilucidation of several seeming difficulties in the ancient, as well as modern English and Roman calendar / by a true son of the Church of England.</title>
+            <author>True son of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 125 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41236</idno>
+            <idno type="STC">Wing F821</idno>
+            <idno type="STC">ESTC R7435</idno>
+            <idno type="EEBO-CITATION">11800223</idno>
+            <idno type="OCLC">ocm 11800223</idno>
+            <idno type="VID">49366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 492:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Festa Anglo-Romana, or, The feasts of the English and Roman church, with their fasts and vigils being an exact and concise accompt of their various etymologies and appellations, with the reasons and grounds of their celebration : together with a succinct discourse of several other grand days in the universities, Inns of courts, and the collar and offering days at White-Hall, tending, to the instruction of all persons in all capacities, and the dilucidation of several seeming difficulties in the ancient, as well as modern English and Roman calendar / by a true son of the Church of England.</title>
+                  <author>True son of the Church of England.</author>
+               </titleStmt>
+               <extent>[10], 136 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Jacob, and John Place ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Church of England.</term>
+               <term>Fasts and feasts --  Catholic Church.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:49366:1" rendition="simple:additions"/>
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 11. 1677.</date>
+               </dateline>
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49366:1" rendition="simple:additions"/>
+            <p>
+               <hi>Feſta Anglo-Romana:</hi> OR, The Feaſts of the <hi>Engliſh</hi> and <hi>Roman</hi> Church, with their Faſts and Vigils.</p>
+            <p>Being an Exact and Conciſe Accompt of their various Etymologies and Appellations, with the Reaſons and Grounds of their Ce<g ref="char:EOLhyphen"/>lebration.</p>
+            <p>Together with a Succinct Diſcourſe of ſeveral other Grand Days in the Univer<g ref="char:EOLhyphen"/>ſities, Inns of Courts, and the Collar and Offering Days at <hi>White-Hall;</hi>
+            </p>
+            <p>Tending, To the Inſtruction of all Perſons in all Capacities, and the Dilucidation of ſeveral ſeeming Difficulties in the Ancient, as well as Modern <hi>Engliſh</hi> and <hi>Roman</hi> Calendar.</p>
+            <p>By a True Son of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Jacob,</hi> and <hi>John Place,</hi> and are to be ſold at the <hi>Black Swan,</hi> and <hi>Furnivals-Inn-Gate</hi> in <hi>Holborn.</hi> 1678.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:49366:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>blazon or coat of arms</figDesc>
+                  <p>MVNIFICENTIA REGIA. 1715. GEORGIV<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> D.G. MAG BRVRET H<gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> F.D.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49366:2"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>I</hi> Deſign not to Preface this ſmall Tract with a Prolix Epiſtle; for that were to make the Porch larger than the Temple; but only to acquaint you, that it is an Hiſtorical Collection of all the Feaſts (with the Faſts Vigils and Octaves) Regiſtred both in the Eng<g ref="char:EOLhyphen"/>liſh, and Roman Rubrick; together with their approved Etymologies, Various Names, and the True Grounds and Reaſons of their Ce<g ref="char:EOLhyphen"/>lebration; A Treatiſe which differs from all others of this Nature that are hitherto extant, both in its Method and Compendiouſneſs; for it begins (according to the old Roman Computation of the year) at the <hi>1ſt</hi>
+               <pb facs="tcp:49366:3"/>of <hi>January,</hi> and ends with the laſt of <hi>December,</hi> giving an account of all the Feſtivals, as they are placed ſucceſſively in the Calendar. And withal, I muſt Advertiſe you, to avoid Confuſion, that our Feſti<g ref="char:EOLhyphen"/>vals are Intituled in an Engliſh, and the Roman in an Italick Letter. And thus I leave the Reader, with theſe few neceſſary Inſtructions, to the peruſal of the Contents of this Book, which may (I preſume) tend to his more ample and plenary ſatisfa<g ref="char:EOLhyphen"/>ction.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:49366:3"/>
+            <head>The TABLE.</head>
+            <list>
+               <item>
+                  <hi>NEw-years Day.</hi> Pag. 4</item>
+               <item>
+                  <hi>Epiphanie.</hi> Pag. 6</item>
+               <item>
+                  <hi>St. Paul.</hi> Pag. 10</item>
+               <item>
+                  <hi>Ianuary the</hi> 30th. Pag. 11</item>
+               <item>
+                  <hi>Purification of the Bleſſed Virgin.</hi> Pag. 12</item>
+               <item>
+                  <hi>St. Matthias.</hi> Pag. 15</item>
+               <item>
+                  <hi>Sunday.</hi> Pag. 20</item>
+               <item>
+                  <hi>Valentines-Day.</hi> Pag. 23</item>
+               <item>
+                  <hi>Septuageſima, Sexageſima, Quinquageſima,</hi> and <hi>Quadrageſima.</hi> Ibid.</item>
+               <item>
+                  <hi>Shrovetide.</hi> Pag. 27</item>
+               <item>
+                  <hi>Aſh-Wedneſday.</hi> Pag. 28</item>
+               <item>
+                  <hi>St. David.</hi> Pag. 29</item>
+               <item>
+                  <hi>St. Patrick.</hi> Pag. 36</item>
+               <pb facs="tcp:49366:4"/>
+               <item>
+                  <hi>St. Joſeph.</hi> Pag. 37</item>
+               <item>
+                  <hi>Annunciation of the Holy Virgin.</hi> ib.</item>
+               <item>
+                  <hi>Palm-Sunday.</hi> Pag. 39</item>
+               <item>
+                  <hi>Good-Friday.</hi> Pag. 42</item>
+               <item>
+                  <hi>Eaſter.</hi> Pag. 44</item>
+               <item>
+                  <hi>Low-Sunday.</hi> Pag. 51</item>
+               <item>
+                  <hi>St. George.</hi> Pag. 52</item>
+               <item>
+                  <hi>St. Mark.</hi> Pag. 53</item>
+               <item>
+                  <hi>Miſericordia.</hi> Pag. 54</item>
+               <item>
+                  <hi>Phillip and Iacob.</hi> ib.</item>
+               <item>
+                  <hi>Holy-Croſs.</hi> Pag. 56</item>
+               <item>
+                  <hi>Rogation-Sunday.</hi> Pag. 58</item>
+               <item>
+                  <hi>Holy Thurſday.</hi> Pag. 63</item>
+               <item>
+                  <hi>King</hi> Charles <hi>Birth &amp; Return.</hi> Pag. 65</item>
+               <item>
+                  <hi>Penticoſt,</hi> or <hi>Whitſontide.</hi> Pag. 67</item>
+               <item>
+                  <hi>Trinity-Sunday.</hi> Pag. 68</item>
+               <item>
+                  <hi>St. Barnabas.</hi> Pag. 69</item>
+               <item>
+                  <hi>Corpus Chriſti.</hi> Pag. 72</item>
+               <item>
+                  <hi>St. Iohn Baptiſt.</hi> Pag. 74</item>
+               <item>
+                  <hi>St. Peter and St. Paul.</hi> Pag. 75</item>
+               <item>
+                  <hi>Viſitation of Mary.</hi> Pag. 78</item>
+               <item>
+                  <hi>St. Swithins-Day.</hi> Pag. 79</item>
+               <item>
+                  <hi>Dog-Days.</hi> ib.</item>
+               <pb facs="tcp:49366:4"/>
+               <item>
+                  <hi>Spaniſh Invaſion.</hi> Pag. 81</item>
+               <item>
+                  <hi>St. Iames.</hi> Pag. 86</item>
+               <item>
+                  <hi>St. Ann.</hi> ib.</item>
+               <item>
+                  <hi>Lammas-Day.</hi> Pag. 87</item>
+               <item>
+                  <hi>Gowrie</hi>'s <hi>Conſpiracy.</hi> Pag. 91</item>
+               <item>
+                  <hi>Transfiguration.</hi> Pag. 94</item>
+               <item>
+                  <hi>St. Lawrence.</hi> Pag. 95</item>
+               <item>
+                  <hi>Aſſumption of the Bleſſed Virgin.</hi> Pag. 96</item>
+               <item>
+                  <hi>St. Bartholomew.</hi> ib.</item>
+               <item>
+                  <hi>Decollation of St. John Baptiſt.</hi> Pag. 97</item>
+               <item>
+                  <hi>September the</hi> 2d. <hi>the burn<g ref="char:EOLhyphen"/>ing of London.</hi> Pag. 98</item>
+               <item>
+                  <hi>Nativity of the Bleſſed Virgin Mary.</hi> Pag. 99</item>
+               <item>
+                  <hi>Holy-rood-Day,</hi> or <hi>Holy Croſs.</hi> ib.</item>
+               <item>
+                  <hi>St. Matthew.</hi> Pag. 100</item>
+               <item>
+                  <hi>St. Michael the Arch-Angel.</hi> Pag. 102</item>
+               <item>
+                  <hi>The Apparition of St. Michael.</hi> Pag. 103</item>
+               <item>
+                  <hi>St. Luke.</hi> Pag. 104</item>
+               <item>
+                  <hi>Urſula a Brittiſh Virgin.</hi> Pag. 105</item>
+               <item>
+                  <hi>St. Simon and Iude.</hi> ib.</item>
+               <item>
+                  <hi>All Saints.</hi> Pag. 108</item>
+               <item>
+                  <hi>All Souls.</hi> ib.</item>
+               <item>
+                  <hi>Gunpowder-Treaſon Day.</hi> Pag. 110</item>
+               <pb facs="tcp:49366:5"/>
+               <item>
+                  <hi>Queen</hi> Catharines <hi>Birth-day.</hi> Pag. 119</item>
+               <item>
+                  <hi>Preſentation of the Virg. Mary.</hi> Pag. 120</item>
+               <item>
+                  <hi>St. Clement.</hi> Pag. 121</item>
+               <item>
+                  <hi>St. Andrew.</hi> Pag. 123</item>
+               <item>
+                  <hi>Advent Sunday.</hi> Pag. 124</item>
+               <item>
+                  <hi>Conception of the Virg. Mary.</hi> ib.</item>
+               <item>
+                  <hi>St. Lucia.</hi> Pag. 125</item>
+               <item>
+                  <hi>St. Thomas.</hi> ib.</item>
+               <item>
+                  <hi>Chriſt Maſs-Day.</hi> Pag. 126</item>
+               <item>
+                  <hi>St. Stephan.</hi> Pag. 128</item>
+               <item>
+                  <hi>St. Iohn.</hi> Pag. 130</item>
+               <item>
+                  <hi>Innocents.</hi> ib.</item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <p>In the Preſs a Printing in a Poc<g ref="char:EOLhyphen"/>ket-Volume, <hi>Englands Remarks,</hi> very much enlarged; a fit Com<g ref="char:EOLhyphen"/>panion for all Travellers and others.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49366:5"/>
+            <head>Feſta Anglo-Romana.</head>
+            <p>
+               <hi>HOly-Day,</hi> in the Sacred Phraſe, is the ſame as ſeparate, or ſet apart to God; being taken out of ordinary Days, and dedi<g ref="char:EOLhyphen"/>cated to the Holy Service of God, and his Worſhip; tho none of them are certainly declared in the New Teſtament; nor is any Chri<g ref="char:EOLhyphen"/>ſtian obliged to the obſervance of thoſe in the Old: But the Holy Church hath thought fit and ne<g ref="char:EOLhyphen"/>ceſſary for the Confirmation of Faith, and the Exerciſe of the true Chriſtian Religion, that peculiar days ſhould be cull'd out of the common, whereon we ſhould
+<pb n="2" facs="tcp:49366:6"/>convene (Politick affairs being laid aſide) in the Publick Aſſem<g ref="char:EOLhyphen"/>bly, to hear God's Holy Word, and to offer up the Calves of our Lips in Prayers to, and Praiſes of the Almighty, with Reading and Meditation. Now, as there is a Holy Feaſt, <hi>Nehemiah</hi> the 8th, and the 10th. which our Church hath dedicated to the Religious Commemoration of ſome eminent Mercies and Bleſſings received (among which ſome Feſtivals are of a ſuperior degree, in regard of the greatneſs of the Bleſſing re<g ref="char:EOLhyphen"/>membred, and the ſolemnity of the Service appointed to that pur<g ref="char:EOLhyphen"/>poſe) ſo there is an Holy Faſt, <hi>Joel</hi> 2. ſuch as are <hi>Aſh-Wedneſday, Good-Friday,</hi> and the whole Week before <hi>Eaſter,</hi> which the Church hath dedicated to God's ſolemn Worſhip in Faſtings and Prayer.</p>
+            <p>The <hi>Holy-Days</hi> we divide into General and Particular. The Ge<g ref="char:EOLhyphen"/>neral
+<pb n="3" facs="tcp:49366:6"/>are ſuch as are generally ce<g ref="char:EOLhyphen"/>lebrated by all Men, and term'd Solemnities; as the <hi>Circumciſion, Epiphany, Purification, Annuncia<g ref="char:EOLhyphen"/>tion, Reſurrection, Aſcenſion,</hi> &amp;c. the Particular are ſolemnized by ſome particular Church, or ſome Coun<g ref="char:EOLhyphen"/>try, call'd Commune; as thoſe dedicated to the Apoſtles, or by ſome Biſhop's Sea, Pariſh-Town or call'd the proper <hi>Holy-Days</hi> of the Place.</p>
+            <p>They are again divided (in re<g ref="char:EOLhyphen"/>ſpect of the days whereon they fall in the Calendar) into Move<g ref="char:EOLhyphen"/>able, and Fixed.</p>
+            <p>The Moveable are thoſe, which tho celebrated on the ſame Week<g ref="char:EOLhyphen"/>day, have no fixed ſeat in the Calendar.</p>
+            <p>The Fixed are ſuch, which fall upon divers days of the
+<pb n="4" facs="tcp:49366:7"/>Week, yet upon one and the ſame day of the Month.</p>
+            <div type="part">
+               <head>New-Years Day.</head>
+               <p>The firſt of <hi>January,</hi> commonly called <hi>New-years Day,</hi> of the old <hi>Roman</hi> Account, which began the year from that day; otherwiſe the <hi>Circumciſion of our Lord,</hi> being celebrated eight days after his Birth incluſively, as it was on the Male-Children of the <hi>Jews,</hi> accor<g ref="char:EOLhyphen"/>ding to the Judaical Law, in me<g ref="char:EOLhyphen"/>mory of his Circumciſion, as the old Law commanded, <hi>Geneſis</hi> the 17th, and the 12th. when he was named <hi>Jeſus, (Gr.</hi> a Saviour) as the Angel had foretold, St. <hi>Luke</hi> 1.32. Circumciſion is deriv'd from the Latin <hi>Circumcido,</hi> which ſigni<g ref="char:EOLhyphen"/>fies a cutting round about; and in truth to ſpeak more properly, it is the cutting away of the <hi>Praepuce,</hi> or double fore-skin, which enfoldeth
+<pb n="5" facs="tcp:49366:7"/>the Head, or Extremity of the <hi>Vir<g ref="char:EOLhyphen"/>ga Virilis;</hi> and was perform'd with a very ſharp Stone, ordered and fitted for that uſe; and not with an Iron Knife ſteel'd, as ſome are of Opinion, tho miſtaken. It was a Ceremony Preſcribed by the Great <hi>Jehovah,</hi> to <hi>Abraham,</hi> the Father of the Faithful, and his Poſterity, who were Heirs of the Divine Promiſe, and Commanded to be ſacredly obſerved by the <hi>He<g ref="char:EOLhyphen"/>brews,</hi> upon the ſevere penalty of Death; as a ſign and ſeal of the Covenant betwixt God and them, and a mark of Diſtinction from all other Nations; which Ceremony was always ſtrictly obſerv'd among them; but abrogated after the Reſurrection and Aſcenſion of our Lord Jeſus Chriſt. This Faſt is one of His Majeſties Offering-Days at Court, whereon Gold, Myrrh and Frankincenſe is offered; and be<g ref="char:EOLhyphen"/>ing celebrated on the firſt of
+<pb n="6" facs="tcp:49366:8"/>
+                  <hi>January;</hi> the ſecond is term'd the <hi>Octave</hi> of St. <hi>Stephan,</hi> the third of St. <hi>John,</hi> and the fourth of the bleſſed <hi>Innocents.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Epiphanie.</head>
+               <p>The next we meet with in the or<g ref="char:EOLhyphen"/>der of the Calendar, is <hi>Epiphanie,</hi> or Twelfth-day. <hi>Epiphanie</hi> is a Greek word, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; ſignifies an Ar<g ref="char:EOLhyphen"/>parition, ſo called and celebrated in memory and honour of our Sa<g ref="char:EOLhyphen"/>viours manifeſtation made to the Gentiles by a miraculous Comet, or Blazing-Star, by virtue where<g ref="char:EOLhyphen"/>of, the three <hi>Magi,</hi> or Sages (vul<g ref="char:EOLhyphen"/>garly called the three Kings of <hi>Colen</hi>) were conducted to him, who, upon Diſcovery of that Star, came out of the <hi>Eaſt</hi> to <hi>Paleſtine,</hi> or <hi>Jewry,</hi> to adore him in the Manger, where (a Twelve-month after Chriſt's Birth) the firſt of them is (as Tradition delivers it
+<pb n="7" facs="tcp:49366:8"/>down to us) nam'd <hi>Melchior,</hi> an aged Man, with a long Beard, who offered Gold to our Saviour, as to a King, in teſtimony of his Rega<g ref="char:EOLhyphen"/>lity; the ſecond <hi>Jaſper,</hi> a Beard<g ref="char:EOLhyphen"/>leſs Youth, who offered Frankin<g ref="char:EOLhyphen"/>cenſe, as unto God, in acknow<g ref="char:EOLhyphen"/>ledgment of his Divinity; the third <hi>Balthaſar</hi> a Black, or Moor with a large ſpreading Beard, who offered Myrrh, as to a Man, that was ready or fit for his Sepulchre, thereby ſignifying his Humanity; of which this Diſtich is extant,
+<q>
+                     <l>
+                        <hi>Tres Reges Regi Regum tria dona ferebant;</hi>
+                     </l>
+                     <l>
+                        <hi>Myrrham Homini, Uncto Aurum, Thura dedêre Deo.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Engliſhed thus,
+<q>
+                     <l>
+                        <hi>Three Kings the King of Kings Three Gifts did bring;</hi>
+                     </l>
+                     <l>
+                        <hi>Myrrh, Incenſe, Gold; as to God, Man and King.</hi>
+                     </l>
+                  </q>
+               </p>
+               <pb n="8" facs="tcp:49366:9"/>
+               <p>And the Poet <hi>Prudentius</hi> ſings ſweetly on this Subject, in this following Tetraſtich.
+<q>
+                     <l>
+                        <hi>Hic pretioſa Magi ſub Virginis ubere Chriſto</hi>
+                     </l>
+                     <l>
+                        <hi>Dona ferunt Puero, Myrrhae<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> &amp; Thuris, &amp; Auri;</hi>
+                     </l>
+                     <l>
+                        <hi>Miratur Genitrix tot caſti ventris honores,</hi>
+                     </l>
+                     <l>
+                        <hi>Seque Deum genuiſſe, Hominem, Regemque ſupremum.</hi>
+                     </l>
+                  </q> And thus Tranſlated by Dr. <hi>Spark</hi> in his <hi>Primitive Devotion.</hi>
+                  <q>
+                     <l>
+                        <hi>The Wiſe-men here choice Treaſures do diſpence</hi>
+                     </l>
+                     <l>
+                        <hi>To</hi> Chriſt, <hi>and</hi> Mary, <hi>Myrrh, Gold Frankincenſe;</hi>
+                     </l>
+                     <l>
+                        <hi>While thus aſtoniſh'd at this Glo<g ref="char:EOLhyphen"/>rious thing;</hi>
+                     </l>
+                     <l>
+                        <hi>A Maid at once to bear God, Man, and King.</hi>
+                     </l>
+                  </q>
+               </p>
+               <pb n="9" facs="tcp:49366:9"/>
+               <p>Or 'tis ſo call'd from the appear<g ref="char:EOLhyphen"/>ing of the Holy Ghoſt in the ſhape of a Dove, at his Baptiſm, 30 years after (for this ſixth of <hi>January</hi> was the day of our Saviour's Baptiſm, and is Celebrated as ſuch by the Church) and therefore 'tis term'd by <hi>Alcas Cyriacus,</hi> an Arabick Ma<g ref="char:EOLhyphen"/>nuſcript of Aſtronomical Tables in the Archbiſhop's Archives, in the Library of <hi>Oxford; the Feaſt of</hi> Epiphanie, <hi>or Benediction of Wa<g ref="char:EOLhyphen"/>ters.</hi> On this day alſo is comme<g ref="char:EOLhyphen"/>morated the firſt Miracle perfor<g ref="char:EOLhyphen"/>med by our Saviour at the Wed<g ref="char:EOLhyphen"/>ding in <hi>Cana</hi> of <hi>Galilee,</hi> where he turn'd Water into Wine. The <hi>Vigil</hi> (or Eve of this Feſtival, ſo nam'd from <hi>Vigilia</hi> in Latin, <hi>Wat<g ref="char:EOLhyphen"/>ohing;</hi> becauſe then Chriſtians were wont to Watch, Faſt, and Pray in their Churches) was call'd in the Primitive Times, <hi>Vigilia Luminum;</hi> and the Ancients then were accuſtomed to ſend Lights
+<pb n="10" facs="tcp:49366:10"/>one to the other. This day was of old Celebrated in honour of <hi>Auguſtus Caeſar</hi> by the <hi>Romans,</hi> for his Conqueſt of <hi>Media, Aegypt,</hi> and <hi>Parthia,</hi> which were after added to their Empire; but the Holy Church willing to alter that So<g ref="char:EOLhyphen"/>lemnity, and introduce a better, inſtituted this Feaſt of the <hi>Epipha<g ref="char:EOLhyphen"/>nie</hi> in lieu of it. 'Tis ſtyl'd <hi>Twelfth-Day,</hi> becauſe Celebrated on the 12th day after the Nativity of the Bleſſed Jeſus excluſively, not taking in <hi>Chriſtmas-Day</hi> for one. This is alſo one of His Majeſties Offering<g ref="char:EOLhyphen"/>days at <hi>White-hall.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. <hi>Paul.</hi>
+               </head>
+               <p>
+                  <hi>January</hi> the 25th. is kept the Feſtival known by the Name of the Converſion of St. <hi>Paul,</hi> that once bloody Perſecutor of the People of God; tho through his Mercy, he afterward became the
+<pb n="11" facs="tcp:49366:10"/>great Apoſtle of the Gentiles, and was Martyr'd at <hi>Rome</hi> for the faith of Chriſt; but inſerted in our Ru<g ref="char:EOLhyphen"/>brick ſince His Majeſtie's Reſtaura<g ref="char:EOLhyphen"/>tion, <hi>Anno Dom.</hi> 1664.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>January</hi> the 30th.</head>
+               <p>
+                  <hi>January</hi> the 30th. A Day — <hi>Nigro carbone notandus;</hi>—and not to be thought upon without Horror &amp; Conſternation. 'Tis kept annually, as a ſolemn Faſt for the barbarous, unexampled Murder of the beſt of Kings, <hi>Charles</hi> the Firſt, of bleſſed Memory, and is by Act of Parliament, 12. <hi>Car.</hi> 2di. ſet apart to implore the Mercy of God, that the guilt of the innocent Blood of this Royal Martyr may not hereafter be viſited upon us, and our Poſterity, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:49366:11"/>
+               <head>Purification of the bleſſed Virgin.</head>
+               <p>
+                  <hi>February</hi> the 2d. is <hi>Candlemas-Day,</hi> or the <hi>Purification of the Bleſ<g ref="char:EOLhyphen"/>ſed Virgin. Candlemas-Day</hi> 'tis call'd from the <hi>Saxon, Candlemaeſſe,</hi> the Maſs or Feaſt of Candles (the old <hi>Saxons</hi> term all Holy-days, Maſs<g ref="char:EOLhyphen"/>days, becauſe they were obliged to hear Maſs on thoſe days, or be<g ref="char:EOLhyphen"/>cauſe High Maſs was then Sung) for before Maſs is ſaid on that day, the <hi>Roman</hi> Church bleſſeth, depu<g ref="char:EOLhyphen"/>teth, or ſets apart her Candles for ſacred uſe; which do ſerve in the Church all the enſuing year, and goes in Proceſſion with Hallowed Candles, carried by the Romaniſts, in commemoration of the Divine Light, wherewith our Saviour Illuminated the Univerſal Church, at his Preſentation, when the Good &amp; Aged <hi>Simeon</hi> ſtyled him a Light to lighten the Gentiles, and the
+<pb n="13" facs="tcp:49366:11"/>Glory of his People <hi>Iſrael,</hi> Luk. 2.32. and both by <hi>Simeon</hi> and <hi>Anna</hi> proclamed to be the true <hi>Meſſiah.</hi> 'Tis nam'd alſo the <hi>Purification,</hi> from <hi>Purifico,</hi> to Purifie; kept in memory, both of the Preſentation of our Bleſſed Lord, and the Puri<g ref="char:EOLhyphen"/>fication of the Holy Virgin in the Temple of <hi>Jeruſalem,</hi> within the ſpace of forty days after her Happy Delivery of the Holy Child, Jeſus; in obedience to the <hi>Moſaical</hi> Law, as it is ſet down, <hi>Leviticus,</hi> the 12th. and the 6th: not that the Bleſſed Virgin had contracted any Impurity by her Child-birth, which ſtood in need of Purification (being the Mother of Purity in the very Abſtract) but partly becauſe (as Mr. <hi>Lightf.</hi> ſays in his <hi>Harmony of the four Evangeliſts</hi>) that Chriſt in nothing might be wanting to the Law; and partly that this might be an occaſion for the firſt publick Declaration of him by
+<pb n="14" facs="tcp:49366:12"/>
+                  <hi>Simeon</hi> and <hi>Anna:</hi> The <hi>Dutch</hi> call this Day <hi>Lichtmiſs,</hi> the Maſs, or Feaſt of Lights; ſee the <hi>Saxon</hi> Di<g ref="char:EOLhyphen"/>ctionary by <hi>Summers:</hi> and was In<g ref="char:EOLhyphen"/>ſtituted by <hi>Juſtinian</hi> the Emperor, <hi>Anno Chriſti</hi> 542. Beſides, 'tis one of the four Gawdy, or Grand-Days in the Inns of Court, which ſingly fall out in every Term: <hi>Candle<g ref="char:EOLhyphen"/>mas,</hi> or the <hi>Purification</hi> in <hi>Hilary; Aſcenſion,</hi> or <hi>Holy Thurſday</hi> in <hi>Ea<g ref="char:EOLhyphen"/>ſter; Midſummer,</hi> or St. <hi>John Bap<g ref="char:EOLhyphen"/>tiſt</hi>'s in <hi>Trinity; All Saints,</hi> or <hi>All<g ref="char:EOLhyphen"/>hollandtide</hi> in <hi>Michaelmas</hi> Term. Theſe four are no Days in the Courts at <hi>Weſtminſter:</hi> and in the Inns of Court on theſe Days dou<g ref="char:EOLhyphen"/>ble Commons are allow'd, and Muſick and Revelling on <hi>All-Saints:</hi> and <hi>Candlemas-Day,</hi> as the firſt and laſt day of <hi>Chriſtmas.</hi>
+               </p>
+               <p>The Etymologie of the word may be taken from Judge <hi>Gawdy;</hi> who as 'tis affirm'd by ſome, was
+<pb n="15" facs="tcp:49366:12"/>the firſt Inſtituter of theſe Days; or rather from the Latin <hi>Gaudium,</hi> becauſe they are Days of Joy, and furniſh the Tables in the Inns of Court with good Chear.</p>
+               <p>In the Colledges at the Univer<g ref="char:EOLhyphen"/>ſities they are uſually call'd <hi>Gawdy,</hi> in the Inns of Court <hi>Grand-Days,</hi> and at His Majeſtie's Court, <hi>White-Hall, Collar-Days;</hi> for on theſe Days at Court, the King, Knights of the Garter, and Judges wear their Collars of <hi>S.S.</hi> It is alſo one of His Majeſtie's Offering-days.</p>
+            </div>
+            <div type="part">
+               <head>St. Matthias.</head>
+               <p>On <hi>February</hi> the 24th. (but in Leap-year the 25th) is Celebrated the Feaſt of <hi>St. Matthias,</hi> who was one of the 70 Diſciples, and ele<g ref="char:EOLhyphen"/>cted Apoſtle by lot, in the room of that Arch Traytor <hi>Judas,</hi> after the Aſcenſion of our Bleſſed Lord:
+<pb n="16" facs="tcp:49366:13"/>He Preached the Holy Goſpel in <hi>Macedonia</hi> (and after Travelled in<g ref="char:EOLhyphen"/>to <hi>Judaea</hi>) where he was firſt cru<g ref="char:EOLhyphen"/>elly ſtoned by the <hi>Jews,</hi> and then Beheaded according to the <hi>Roman</hi> Cuſtom, <hi>Anno Dom.</hi> 51. and it is alſo one of His Majeſties Collar-Days, without Offering; here we may properly come in with our Diſcourſe concerning <hi>Biſſextile,</hi> or Leap-year. 'Tis term'd <hi>Biſſex<g ref="char:EOLhyphen"/>tilis,</hi> becauſe the 6th of the Ca<g ref="char:EOLhyphen"/>lends of <hi>March</hi> are twice reckon'd, <hi>viz.</hi> on the 24th and 25th of <hi>Fe<g ref="char:EOLhyphen"/>bruary;</hi> ſo that Leap-year has a ſupernumerary day more than other years; according to that old Rhythm,
+<q>
+                     <l>
+                        <hi>Thirty Days hath</hi> November,</l>
+                     <l>April, June, <hi>and</hi> September;</l>
+                     <l>February <hi>hath Eight and twenty alone,</hi>
+                     </l>
+                     <l>
+                        <hi>And all the reſt have thirty and one;</hi>
+                     </l>
+                     <pb n="17" facs="tcp:49366:13"/>
+                     <l>
+                        <hi>But when of Leap-year cometh the time,</hi>
+                     </l>
+                     <l>
+                        <hi>Then Days hath</hi> February <hi>Twenty and nine:</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>Obſerve alſo this Latin Diſtich; tho in old Monkiſh Rhythm, re<g ref="char:EOLhyphen"/>gardleſs of true Quantity,
+<q>
+                     <l>
+                        <hi>Biſſextum Sextae</hi> Martis <hi>tenuere Calendae,</hi>
+                     </l>
+                     <l>
+                        <hi>Poſteriore die celebrantur Feſta</hi> Mathiae.</l>
+                  </q>
+               </p>
+               <p>This Leap-year is obſerved eve<g ref="char:EOLhyphen"/>ry fourth year, and was firſt in<g ref="char:EOLhyphen"/>vented by <hi>Julius Caeſar,</hi> the Perpe<g ref="char:EOLhyphen"/>tual Dictator of <hi>Rome,</hi> to accom<g ref="char:EOLhyphen"/>modate and even the year with the Courſe of the Sun; and takes the name of <hi>Julian</hi> Account from him, who before the Incarnation of Chriſt, the ſpace of 44 years, obſerving the erroneouſneſs of the Account then in uſe; ordered the
+<pb n="18" facs="tcp:49366:14"/>year to conſiſt of 365 days and ſix hours which ſix hours, in four years time, made 24 hours, or a Civil Day, and were added to the end of <hi>February;</hi> and upon this account every fourth year con<g ref="char:EOLhyphen"/>tained. 366 days, and was call'd <hi>Annus Biſſextilis,</hi> for the reaſon pre<g ref="char:EOLhyphen"/>mention'd, and the thing it ſelf <hi>Intercalatio,</hi> an Interlacing or put<g ref="char:EOLhyphen"/>ing any odd thing between even ones, meaning the odd day in Leap<g ref="char:EOLhyphen"/>year, in which account for many years there was no ſenſible Error diſcovered; yet in proceſs of time it was found not to be ſo exactly agreeable with the Sun's natural Motion; for the <hi>Julian</hi> exceeded the true Solar year by 10 Minutes, and 48 ſeconds, and cauſed the <hi>Aequinoxes</hi> and <hi>Solſtices,</hi> yearly, to alter and change their places, and recede or fly back ſo many Mi<g ref="char:EOLhyphen"/>nutes and ſeconds; in conſidera<g ref="char:EOLhyphen"/>tion whereof, Pope <hi>Gregory</hi> the
+<pb n="19" facs="tcp:49366:14"/>13th of that Name, by the advice <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd aſſiſtance of <hi>Antonius Lilius,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Brothers, and other Eminent Mathematicians, did, in the year of our Lord 1582. correct the <hi>Roman</hi> Calendar, appointing the year to contain 365 days, 5 hours, 49 Mi<g ref="char:EOLhyphen"/>nutes, and 12 ſeconds, and that the Vernal Aequinox which was then on the 11th of <hi>March,</hi> might be reduced to the 21th as it was at the time of the firſt Council of <hi>Nicaea;</hi> he commanded, that 10 days in <hi>October</hi> ſhould be totally omitted, <hi>viz.</hi> from the 4th, to the 14th; ſo that the 4th day of the Month was counted the 14th. Hence it is, that the New, Foreign, <hi>Gregorian,</hi> or <hi>Lilian</hi> is 10 days be<g ref="char:EOLhyphen"/>fore the old, or our <hi>Julian</hi> account. Here it is alſo obſervable, that every Leap-year (to prevent all Ambiguities that may ariſe at Law) it is provided by the Statute <hi>de Anno Biſſextili,</hi> 21 <hi>H.</hi> 3. that
+<pb n="20" facs="tcp:49366:15"/>the 24th and 25th of <hi>February,</hi> in Suits at Law, ſhall be accounted for one day only. <hi>Britton</hi> f. 209. <hi>Dyer</hi> 17 <hi>Eliz.</hi> 345. but for keeping of Fairs, it is ordered, that thoſe which uſe to be on the 24th of <hi>February,</hi> ſhall be kept on the 25th, becauſe the Feaſt of <hi>St. Mathias</hi> is not till the 25th of <hi>February</hi> in the Leap-year. It is call'd Leap-year from the <hi>Dutch Loop-iare, qu.</hi> Leap<g ref="char:EOLhyphen"/>year, becauſe it exceeds the bounds of other years by a day.</p>
+            </div>
+            <div type="part">
+               <head>Sunday.</head>
+               <p>As for <hi>Sunday</hi> or the Lords-Day, it is the weekly Feaſt of the Re<g ref="char:EOLhyphen"/>furrection of Chriſt; not Inſtituted by him, or God himſelf, but by his own Apoſtles in the place of the rejected Sabbath of the <hi>Jews,</hi> for theſe enſuing Reaſons:</p>
+               <p n="1">1. That Chriſtians ſhould not be obliged to the obſervance of
+<pb n="21" facs="tcp:49366:15"/>Judaical Ceremonies; but teſtifie the Abrogation of their Feaſts, and the liberty receiv'd by the coming of Chriſt.</p>
+               <p n="2">2. That as the <hi>Jewiſh</hi> Sabbath did continually put them in mind of the former World finiſhed by the Creation; ſo the Lord's-Day ought to keep us in the conſtant Remembrance of a far better world begun by our Saviour, who came to reſtore all things, and make Heaven and Earth new; therefore for this Reaſon did they Honour the Laſt day, we the Firſt in every ſeven, annually.</p>
+               <p n="3">3. In regard that the Lord roſe from the Dead on this day, and perfected the great and wonder<g ref="char:EOLhyphen"/>ful Work of Man's Redemption.</p>
+               <p n="4">4. We cannot more congru<g ref="char:EOLhyphen"/>ouſly apprehend the Majeſty of
+<pb n="22" facs="tcp:49366:16"/>the Super-eminent and Puiſſant Jeſus, by any other Creature than by the moſt reſplendent and glo<g ref="char:EOLhyphen"/>rious Light of the Sun, the Ruler of this day; for it is written, <hi>Et in ſole poſuit Tabernaculum ſuum, &amp; exiit de Tribu Judae, cujus Signum (Leo) eſt Solare Animal.</hi>
+               </p>
+               <p>The Lord's-Day (when any happens) between <hi>Candlemas,</hi> and <hi>Twelfth-Day,</hi> hath no certain Name; but is call'd the firſt, or ſe<g ref="char:EOLhyphen"/>cond <hi>Sunday</hi> (on which it falls) after <hi>Chriſtmas;</hi> but thoſe that ſucceed the <hi>Epiphanie,</hi> are denoted accor<g ref="char:EOLhyphen"/>ding to the Numeral order, as the firſt <hi>Sunday</hi> after it is ſtyl'd the firſt <hi>Sunday</hi> after <hi>Epiphanie,</hi> the next the ſecond, <hi>&amp;c.</hi> whereof there are five this preſent year, ſometimes only four, but more or fewer, ac<g ref="char:EOLhyphen"/>cording to the greater quantity of the <hi>Intervallum majus,</hi> tho the <hi>Sunday</hi> immediately preceding
+<pb n="23" facs="tcp:49366:16"/>
+                  <hi>Septuageſima</hi> is ever counted the laſt <hi>Sunday</hi> after <hi>Epiphanie.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Valentine</hi>'s-Day.</head>
+               <p>
+                  <hi>Valentine</hi>'s-Day is on the 14th of <hi>February,</hi> ſo call'd from <hi>Valen<g ref="char:EOLhyphen"/>tine</hi> (Powerful, <hi>Lat.</hi>) a <hi>Roman</hi> Bi<g ref="char:EOLhyphen"/>ſhop, whoſe Feaſt is kept this day: about this time the Birds make choice of their Mates for the en<g ref="char:EOLhyphen"/>ſuing year, and we among us of our <hi>Valentines;</hi> that is, Men and Women choſen for ſpecial Loving Friends; it ſignifies alſo Saints cho<g ref="char:EOLhyphen"/>ſen for ſpecial Patrons for the year.</p>
+               <p>The next 4 Sundays are known by the Name of</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Septuageſima, Serageſima, Quinquageſima,</hi> and <hi>Qua<g ref="char:EOLhyphen"/>drageſima.</hi>
+               </head>
+               <p>The three firſt have their Names from the Order in which they precede the 4th <hi>Quadrageſi<g ref="char:EOLhyphen"/>ma,</hi> and ſo of the reſt.</p>
+               <pb n="24" facs="tcp:49366:17"/>
+               <p>
+                  <hi>Septuageſima</hi> was Inſtituted, as 'tis generally believ'd, for theſe three Reaſons.</p>
+               <p n="1">1. For <hi>Suppletion;</hi> i.e. making up what is wanting; for becauſe ſome did not uſe to faſt on the <hi>Friday</hi> (and therefore <hi>Sexageſima</hi> was In<g ref="char:EOLhyphen"/>ſtituted, as you ſhall underſtand by and by) neither upon the <hi>Sa<g ref="char:EOLhyphen"/>turday,</hi> in regard that our Saviour on that day reſted in his Grave, to denote our future Reſt (and 'tis obſerv'd by St. <hi>Auguſtin,</hi> that the Inhabitants of <hi>Aſia,</hi> &amp; ſome others, grounding their Practice on an Apoſtolical Tradition, would not Faſt on the <hi>Saturday</hi>) therefore the Week call'd <hi>Septuageſima,</hi> was ad<g ref="char:EOLhyphen"/>ded to ſupply the ſeven days of <hi>Sexageſima.</hi>
+               </p>
+               <p n="2">2. For it's own Signification; in that thereby is ſignified unto us
+<pb n="25" facs="tcp:49366:17"/>the Exile and Affliction of Man<g ref="char:EOLhyphen"/>kind from <hi>Adam</hi> to the laſt gene<g ref="char:EOLhyphen"/>ral Conflagration; and therefore all Holy Hymns, and Sacred An<g ref="char:EOLhyphen"/>thems of Joy are intermitted by our Holy Mother the Church, during the time of <hi>Septuageſima.</hi>
+               </p>
+               <p n="3">3. To repreſent the 70 years Captivity of the <hi>Jews</hi> in <hi>Babylon:</hi> and as at that time the <hi>Iſraelites</hi> laid aſide their Inſtrument, ſaying, <hi>Quomodo cantabimus Canticum Do<g ref="char:EOLhyphen"/>mini,</hi> &amp;c. ſo the Church leaves off her Songs of Praiſes during this time. <hi>Sexageſima</hi> was inſtituted by <hi>Melchiades</hi> Bp. of <hi>Rome,</hi> a Martyr, who flouriſhed, <hi>An. Dom.</hi> 311. and ordained, that none ſhould Faſt on <hi>Friday,</hi> becauſe of the Lord's Sup<g ref="char:EOLhyphen"/>per, and his Aſcenſion on that day; ſo neither on the <hi>Sunday</hi> (which be<g ref="char:EOLhyphen"/>ing the firſt day of the Week) ſolemnizeth our Saviour's Reſur<g ref="char:EOLhyphen"/>rection, to diſtinguiſh between
+<pb n="26" facs="tcp:49366:18"/>Chriſtians, and Gentiles; there<g ref="char:EOLhyphen"/>fore the Ancients (to redeem the <hi>Fridays</hi> in <hi>Quinquageſima</hi>) added this other Week to the Faſt, call'd by them <hi>Sexageſima.</hi>
+               </p>
+               <p>The next <hi>Sunday</hi> is <hi>Quinquageſi<g ref="char:EOLhyphen"/>ma.</hi> The Holy Church Commands a Faſt to be obſerv'd, conſiſting of 40 days, before <hi>Eaſter,</hi> ſtyl'd <hi>Qua<g ref="char:EOLhyphen"/>drageſima,</hi> or the Holy time of <hi>Lent,</hi> wherein there are but 36 days, beſides the Lord's-Days, on which ſhe faſts not, for joy of the Reſur<g ref="char:EOLhyphen"/>rection; now to ſupply this De<g ref="char:EOLhyphen"/>fect, four days of the foregoing Week were added to the <hi>Quadra<g ref="char:EOLhyphen"/>geſimal</hi> Faſt; and afterward it was (firſt by <hi>Teleſphorus</hi> Biſhop of <hi>Rome</hi> and Martyr, who flouriſhed, <hi>Anno Dom.</hi> 142. and ſince that by Pope <hi>Gregory</hi> the Great) Decreed, that all Prieſts ſhould begin their Faſt two days ſooner, <hi>viz.</hi> two days before the additional four
+<pb n="27" facs="tcp:49366:18"/>pre-mentioned; that as they pre<g ref="char:EOLhyphen"/>ceded the Laity in Dignity, they might alſo in Sanctity and Holi<g ref="char:EOLhyphen"/>neſs; therefore this Week <hi>Quin<g ref="char:EOLhyphen"/>quageſima</hi> was added to the Week <hi>Quadrageſima.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Shrovetide.</head>
+               <p>Next we come to <hi>Shrovetide</hi> or <hi>Carneval,</hi> which is derived from the <hi>Saxon Shrive,</hi> or <hi>Shrift;</hi> and the <hi>Belgick Tyde</hi> or <hi>Tijdt,</hi> i.e. the time of ſhriving or confeſſion of Sins; for about this time the Ro<g ref="char:EOLhyphen"/>man Catholicks uſe to confeſs their Sins. and receive the bleſſed Sacrament; to the end they might more Religiouſly obſerve the Holy time of Lent then immediately en<g ref="char:EOLhyphen"/>ſuing. 'Tis call'd <hi>Carneval</hi> (being a diſſolute Seaſon, or Licentious Time) <hi>qu. valeat caro,</hi> becauſe then they bid adieu to eating of Fleſh, and feed on Fiſh.</p>
+            </div>
+            <div type="part">
+               <pb n="28" facs="tcp:49366:19"/>
+               <head>Aſh-Wedneſday.</head>
+               <p>
+                  <hi>Aſh-Wedneſday</hi> is the Begin<g ref="char:EOLhyphen"/>ning, or Head of the Faſt of <hi>Lent,</hi> and was by <hi>Gregory</hi> the Great, (Pope of <hi>Rome</hi>) Dedicated to the Conſecration and ſprinkling with Aſhes (and therefore call'd in La<g ref="char:EOLhyphen"/>tine, <hi>Dies Cinerum,</hi> or <hi>Aſh-Wedneſ<g ref="char:EOLhyphen"/>day,</hi> by the Ancients <hi>Caput Jejunii,</hi> the Head of Faſting, or firſt be<g ref="char:EOLhyphen"/>ginning of <hi>Lent)</hi> yet (as <hi>Hoſpi<g ref="char:EOLhyphen"/>nian</hi> affirms) there is extant an Homily compoſed by <hi>Maximus</hi> Biſhop of <hi>Tours,</hi> in <hi>France,</hi> with this Inſcription, <hi>In Die Cinerum,</hi> which ſhews the Inſtitution there<g ref="char:EOLhyphen"/>of to be before his Time, becauſe <hi>Maximus Taurinenſis</hi> liv'd 170 years before him, <hi>viz. Anno Dom.</hi> 420. 'Tis call'd <hi>Aſh-Wedneſday,</hi> from the ancient Ceremony of Bleſſing Aſhes on that Day; and therewith the Prieſt ſigneth the
+<pb n="29" facs="tcp:49366:19"/>People on the Forehead in the form of a Croſs, affording them withal this wholſom Admonition; <hi>Memento Homo quod Pulvis es, &amp; in Pulverem reverteris;</hi> Remem<g ref="char:EOLhyphen"/>ber Man, that thou art Duſt, and to Duſt thou ſhalt return; to mind them of their Mortality, and pre<g ref="char:EOLhyphen"/>pare them for the Holy Faſt of <hi>Lent;</hi> the Aſhes uſed this day in the Church of <hi>Rome,</hi> are made of the Palms conſecrated the <hi>Sun<g ref="char:EOLhyphen"/>day</hi> Twelve-month before: and formerly in the <hi>Eaſterin</hi> Countries, they uſually on this Day wore Sack-cloth, and ſprinkled Aſhes on the Heads of the People, which was done in token of ſincere Hu<g ref="char:EOLhyphen"/>miliation, and a true and unfeigned ſorrow for Sin.</p>
+            </div>
+            <div type="part">
+               <head>St. David.</head>
+               <p>St. <hi>David</hi>'s, vulgarly and ludi<g ref="char:EOLhyphen"/>briouſly nick-nam'd St. <hi>Taffie</hi>'s
+<pb n="30" facs="tcp:49366:20"/>Day, which is on the firſt of <hi>March,</hi> is a <hi>Britiſh</hi> Holy-Day, and obſerv'd by them very ſolemnly, in Honour and Commemoration of St. <hi>David,</hi> their worthy Patron, who is by their Records and Tra<g ref="char:EOLhyphen"/>dition, juſtified to be a Prelate of Eminent Holineſs and Auſterity of Life, a Perſon of great Learn<g ref="char:EOLhyphen"/>ing, a moſt Florid and Eloquent Preacher of the Word of God, and Archbiſhop of <hi>Menevy,</hi> now taking from him the Name of St. <hi>David</hi> s in <hi>Pembrokeſhire.</hi> He flouriſhed in the fifth and ſixth Age after the In<g ref="char:EOLhyphen"/>carnation of Chriſt, and died aged 140 years, as Dr. <hi>Pits</hi> teſtifieth in his Treatiſe Intituled, <hi>De Illuſtri<g ref="char:EOLhyphen"/>bus Angliae Scriptoribus:</hi> The <hi>Bri<g ref="char:EOLhyphen"/>tains</hi> on this Day conſtantly wear a Leek, in Memory of a Famous and Notable Victory obtain'd by them over the <hi>Saxons;</hi> they, du<g ref="char:EOLhyphen"/>ring the Battel, having Leeks in their Hats, for their Military Co<g ref="char:EOLhyphen"/>lours,
+<pb n="31" facs="tcp:49366:20"/>and Diſtinction of them<g ref="char:EOLhyphen"/>ſelves, by the perſwaſion of the ſaid Prelate, <hi>St. David.</hi>
+               </p>
+               <p>The firſt <hi>Sunday</hi> in <hi>Lent</hi> is call'd <hi>Quadrageſima,</hi> the ſecond <hi>Remini<g ref="char:EOLhyphen"/>ſcere,</hi> the third <hi>Oculi,</hi> the fourth <hi>Laetare,</hi> the fifth <hi>Iudica,</hi> the fixth <hi>Dominica Magna;</hi> of theſe in order.</p>
+               <p>
+                  <hi>Quadrageſima,</hi> or the firſt <hi>Sun<g ref="char:EOLhyphen"/>day</hi> in Lent; ſo call'd becauſe it is diſtant 40 days from the grand Feaſt of <hi>Eaſter,</hi> containing the <hi>Lenten</hi> Faſt, as it was obſerv'd by the Primitive Chriſtians, in imi<g ref="char:EOLhyphen"/>tation of our Saviour's Faſting in the Deſart 40 days, and 40 nights; it is call'd alſo <hi>Invocavit,</hi> becauſe on that Day the Church ſings <hi>In<g ref="char:EOLhyphen"/>vocavit me, &amp; ego exaudiam eum,</hi> or that taken out of Pſalm the 90th, <hi>v.</hi> 3, 4. 'Tis ſtyl'd <hi>Lent,</hi> ſo call'd from the old <hi>Saxons,</hi> who nomi<g ref="char:EOLhyphen"/>nated <hi>March, Lenct Monat,</hi> i. e.
+<pb n="32" facs="tcp:49366:21"/>
+                  <hi>Length Month,</hi> becauſe the Days then begin to lengthen, and exceed the Nights. Now this Month be<g ref="char:EOLhyphen"/>ing ſo named by our Anceſtors, when they did firſt imbibe or em<g ref="char:EOLhyphen"/>brace Chriſtianity, and therewith alſo the ancient and Religious Cu<g ref="char:EOLhyphen"/>ſtom of Faſting; this Seaſon is pe<g ref="char:EOLhyphen"/>culiarly term'd the Faſt of <hi>Lent,</hi> by reaſon of the <hi>Lenct-Monat,</hi> or Month of <hi>March,</hi> wherein the ma<g ref="char:EOLhyphen"/>jor part of the time of this Grand Faſting always hapned. Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Baker</hi> ſaith in his Chronolo<g ref="char:EOLhyphen"/>gy, that it was firſt commanded to be obſerv'd here among us in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by <hi>Ercombert</hi> the 7th King of <hi>Kent,</hi> in or about the year of our Lord 641. So that it is of An<g ref="char:EOLhyphen"/>tiquity in this Nation, and no up<g ref="char:EOLhyphen"/>ſtart and new-fangled Faſt.</p>
+               <p>Then we meet with <hi>Ember-Week,</hi> ſo named from the Greek <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, i. e. <hi>Dies;</hi> Days, by way
+<pb n="33" facs="tcp:49366:21"/>of Emphaſis, the Grand Days of Faſting, as ſome are of opinion; others conceive, that they are call'd the Days of Aſhes, or Ember-Days from that as Ancient, as Reli<g ref="char:EOLhyphen"/>gious Cuſtom of wearing Hair-Cloth, and uſing Aſhes in times of Publick Penance and Piety, or from the Antiquated uſage of eat<g ref="char:EOLhyphen"/>ing no other Food on thoſe Days, till Night, only a Cake baked under the Embers or Aſhes, which they call'd, <hi>Panem Subcineritium,</hi> or <hi>Ember-Bread, Turb. Cath.</hi> Yet Sir <hi>Henry Spelman</hi> ſaith, <hi>De Conci<g ref="char:EOLhyphen"/>liis,</hi> that the true and genuine word is <hi>Imber,</hi> from the <hi>Saxon Imbren,</hi> i. e. a Circle; becauſe the Ember-days move round the year, as it were in a Circle. Theſe Ember-Weeks are four in the year; and they of old, in every one of them faſted on <hi>Wedneſday, Friday,</hi> and <hi>Saturday,</hi> as you will find it in this ancient Couplet.</p>
+               <pb n="34" facs="tcp:49366:22"/>
+               <q>
+                  <l>
+                     <hi>Poſt Cineres, Pentec: poſt Crucem, poſtque Luciam.</hi>
+                  </l>
+                  <l>
+                     <hi>Mercurii, Veneris, Sabathi, Jeju<g ref="char:EOLhyphen"/>nia fiant.</hi>
+                  </l>
+               </q>
+               <p>That is, the next Week after <hi>Aſh-Wedneſday, Whitſunday, Holy-Rood,</hi> or the <hi>Exaltation of the Croſs,</hi> and <hi>St. Lucie</hi>'s Day. They are of great Antiquity in the Church, being times of Publick Prayer, Faſting and Proceſſion, and ſtyl'd <hi>Quatuor Anni Tempora,</hi> by the An<g ref="char:EOLhyphen"/>cient Fathers; for beſides the firſt Inſtitution of them for quarterly Seaſons of Devotion, proportion'd to every part of the year, that the intire year, &amp; each Diviſion there<g ref="char:EOLhyphen"/>of might be bleſſed thereby; they were partly inſtituted for the ſuc<g ref="char:EOLhyphen"/>ceſsful Ordination of Prieſts in the <hi>Roman</hi> Church, and partly to beg a Bleſſing on the Fruits of the Earth, and render thanks to God
+<pb n="35" facs="tcp:49366:22"/>for the ſame; nay, beſides their anſwerableneſs to thoſe <hi>Jejunia Quatuor,</hi> or ſolemn Faſting-days inſtituted by the Jews, and men<g ref="char:EOLhyphen"/>tioned by the Prophet <hi>Zachary, ca.</hi> 8. that we Chriſtians might not be inferior to them in ſo Holy a Duty; the Church hath aſſigned them an Excellent uſe, in imita<g ref="char:EOLhyphen"/>tion of the Apoſtles, <hi>Acts</hi> 13.3. See a Book Intituled, <hi>A View of the Directory,</hi> fol. 56. Much about this time the Aequinox happens, which is an Imaginary, phancied Line, paſſing juſt between the two Poles in the midſt of Heaven, which Lines the Sun travels to twice a year (namely about the 11th of <hi>March,</hi> which is call'd the Vernal, and the 11th of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> the Autumnal Aequinox) and equals the Day and Night for length throughout the Univerſe (except with the Inhabitants dire<g ref="char:EOLhyphen"/>ctly under the Poles) and therefore term'd Equinox.</p>
+               <pb n="36" facs="tcp:49366:23"/>
+               <p>The ſecond Sunday in <hi>Lent</hi> is nam'd <hi>Reminiſcere,</hi> from the En<g ref="char:EOLhyphen"/>trance of the 5th Verſe of <hi>Pſal.</hi> 25. <hi>Reminiſcere miſerationum tuarum Domine,</hi> &amp;c. <hi>Call to Remembrance, O Lord, thy tender Mercies,</hi> &amp;c.</p>
+               <p>The third Sunday in <hi>Lent</hi> is call'd <hi>Oculi,</hi> from the entrance of the 14th <hi>v.</hi> of the 25th <hi>Pſalm, Oculi mei ſemper ad Dominum,</hi> &amp;c. <hi>My Eyes are ever looking unto the Lord.</hi>
+               </p>
+               <p>
+                  <hi>March</hi> the 17th. <hi>St. Patrick</hi>'s-<hi>Day;</hi> a great Saint, Worker of Miracles, and the much honoured Patron of <hi>Ireland.</hi>
+               </p>
+               <p>The fourth Sunday is call'd <hi>Lae<g ref="char:EOLhyphen"/>tare,</hi> from the beginning of the 10th <hi>v.</hi> of the 66th <hi>Chap.</hi> of <hi>Iſaiah, Laetare cum Jeruſalem,</hi> &amp;c. <hi>Rejoyce with Jeruſalem,</hi> &amp;c. It is alſo term'd <hi>Dominica de Roſa,</hi> from the Golden
+<pb n="37" facs="tcp:49366:23"/>Roſe which the Pope of <hi>Rome</hi> car<g ref="char:EOLhyphen"/>rieth in his hand when he walks before the People in the Temple; as alſo, <hi>Dominica de Panibus,</hi> or <hi>Refectionis;</hi> becauſe the Miracle of the five Loaves in the Holy Goſpel is explained on this Day in the <hi>Roman</hi> Church; but we here in <hi>England</hi> truly ſtyle it <hi>Mid-Lent Sunday.</hi>
+               </p>
+               <p>
+                  <hi>March</hi> the 19th. in the <hi>Roman</hi> Church is Celebrated in Comme<g ref="char:EOLhyphen"/>moration of <hi>St. Joſeph</hi> Confeſſor, the Husband of the Bleſſed Virgin <hi>Mary.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Annunciation of the Holy Virgin.</head>
+               <p>The 25th of this Month is the Feaſt of the <hi>Annunciation of the Holy Virgin,</hi> the Conception of our Saviour, vulgarly <hi>Lady-Day;</hi> and this is Celebrated in Commemoration of that moſt
+<pb n="38" facs="tcp:49366:24"/>Happy Meſſage, or rather Embaſſy from God, which was pronoun<g ref="char:EOLhyphen"/>ced by the Angel <hi>Gabriel,</hi> in which ſhe was Declar'd and Proclam'd the Bleſſed Mother of <hi>God,</hi> St. <hi>Luke</hi> 1ſt. 31, 32.</p>
+               <p>The fifth Sunday in <hi>Lent</hi> is call'd <hi>Judica,</hi> and <hi>Paſſion-Sunday;</hi> from the entrance of the 35th Pſalm, <hi>Judica me Deus, Diſcerne Cauſam meam,</hi> &amp;c. <hi>Judg me, O Lord! Plead thou my Cauſe,</hi> &amp;c. 'Tis term'd <hi>Paſſion-Sunday,</hi> from the Paſſion of our Lord, which is then near approaching, and was Inſtituted to prepare us worthily for the Re<g ref="char:EOLhyphen"/>ligious Celebration thereof.</p>
+               <p>On this Day the <hi>Romaniſts</hi> clothe all their Crucifixes in their Chur<g ref="char:EOLhyphen"/>ches with Mourning Colours, in remembrance of our Saviour's go<g ref="char:EOLhyphen"/>ing out of the Temple, and ab<g ref="char:EOLhyphen"/>ſconding Himſelf, in order to
+<pb n="39" facs="tcp:49366:24"/>Diſpoſe us to a Compaſſion with him.</p>
+            </div>
+            <div type="part">
+               <head>Palm-Sunday.</head>
+               <p>
+                  <hi>Palm Sunday, Dominica Palma<g ref="char:EOLhyphen"/>rum,</hi> or <hi>Dominica Magna,</hi> is the 6th and laſt Sunday in <hi>Lent,</hi> im<g ref="char:EOLhyphen"/>mediately preceding <hi>Eaſter.</hi> 'Tis call'd <hi>Palm-Sunday,</hi> or <hi>Dominica Palmarum</hi> (which is the ſame in Latin) from the Branches of Palm which the Jews ſtrewed under his feet, at his Triumphant Entrance into <hi>Jeruſalem</hi> upon an Aſs, crying <hi>Hoſanna to the Son of</hi> David, St. <hi>Matth.</hi> 21.25. and hence it is that the Romaniſts do annually on this day, bleſſe the Palm, and go ſo<g ref="char:EOLhyphen"/>lemnly in Proceſſion, in honour of our Saviour's Triumph, all the people carrying Boughs, or Bran<g ref="char:EOLhyphen"/>ches of Palm in their hands. It hath the Name <hi>Dominica Magna,</hi> or the Great Lord's-Day; becauſe
+<pb n="40" facs="tcp:49366:25"/>of the Great and many Infallible good things that were confer'd on the Faithful, the Week enſuing; namely, Death aboliſhed, Slander and the Tyranny of Satan re<g ref="char:EOLhyphen"/>mov'd, by the painful and igno<g ref="char:EOLhyphen"/>minious Death of our Saviour.</p>
+               <p>This is call'd the Holy-Week, becauſe Men gave over their worldly employ, Courts were ſhut up, Priſoners freed, and many Prayers and Offices perform'd by the Holy Church, in order to our Preparation for the Grand Feaſt of <hi>Eaſter,</hi> and the Week of Faſts, becauſe faſting was then in<g ref="char:EOLhyphen"/>creas'd, with Watching &amp; Prayer, for they did lye on the ground, and when they did eat on theſe ſix days, their Food was only Bread, Salt and Water.</p>
+               <p>The next <hi>Wedneſday</hi> after <hi>Palm-Sunday,</hi> was the Day whereon the Scribes and Phariſees ſate in
+<pb n="41" facs="tcp:49366:25"/>Council againſt the Lord of Life; the <hi>Thurſday</hi> following, the <hi>Pa<g ref="char:EOLhyphen"/>raſceue</hi> (Greek) or Preparation of the Legal Paſſeover, and the In<g ref="char:EOLhyphen"/>ſtitution of the Lord's Supper, that very night, which is otherwiſe nam'd <hi>Maundy Thurſday,</hi> quaſi <hi>Mandati Thurſday</hi> (being the laſt <hi>Thurſday</hi> in <hi>Lent,</hi> and firſt before <hi>Eaſter)</hi> from fulfilling the Man<g ref="char:EOLhyphen"/>date or Command of our Saviour, which aroſe from an ancient Ce<g ref="char:EOLhyphen"/>remony frequently practis'd by Prelates in Cathedral Churches and Religious Houſes, and is in imitation of Chriſt; who on the Evening of this Day, after his laſt Supper, and before he Inſtituted the Bleſſed Sacrament, waſhed his Diſciples feet; acquainting them withal, that they muſt do ſo like<g ref="char:EOLhyphen"/>wiſe to one another; which is the Mandate whence the Day takes Denomination. At the beginning of the ſaid Ceremony, Chriſt ut<g ref="char:EOLhyphen"/>ter'd
+<pb n="42" facs="tcp:49366:26"/>theſe words, ſoon after he had waſhed their feet, <hi>Joh.</hi> 13.34. (which are ſung as an Antiphone) <hi>Mandatum novum do vobis, ut dili<g ref="char:EOLhyphen"/>gatis invicem, ſicut dilexi vos.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Good Friday.</head>
+               <p>The next Day is ſtyl'd <hi>Good-Friday,</hi> becauſe the Good Work of Man's Redemption was then Conſummated; the Cauſe of all our good, and true ground of all our joy; it being the moſt Sacred and Memorable Day of the Bloody Paſſion of Chriſt on the Croſs; which was a ſufficient Attone<g ref="char:EOLhyphen"/>ment or Satisfaction for the Sins of Mankind.</p>
+               <p>And here it will not be amiſs for the Reader to take notice (in order to his underſtanding it, when he meets it in Authors) that in the <hi>Roman</hi> Church, the Offices
+<pb n="43" facs="tcp:49366:26"/>call'd <hi>Tenebrae,</hi> are Sung on <hi>Thurſ<g ref="char:EOLhyphen"/>day, Friday,</hi> and <hi>Saturday,</hi> of this Holy, or Great Week, and that in Lamentation of our Saviour's Paſſion; and becauſe theſe are ſtill anticipated in the Rehearſal, the Evening of the foregoing <hi>Wedneſday, Thurſday,</hi> and <hi>Friday,</hi> hath obtain'd the Appellation of <hi>Tenebrae-Days</hi> from the Latin <hi>Tene<g ref="char:EOLhyphen"/>brae,</hi> or the French <hi>Tenebres,</hi> Days of Darkneſs, or Dark Days, becauſe thereby they repreſent the Dark<g ref="char:EOLhyphen"/>neſs that attended and accompa<g ref="char:EOLhyphen"/>nied our Lord's Crucifixion; and then alſo that Church extinguiſh<g ref="char:EOLhyphen"/>eth all her Lights; and after ſome ſi<g ref="char:EOLhyphen"/>lence, when the whole office is con<g ref="char:EOLhyphen"/>cluded, they make a ſudden great noiſe, to repreſent the rending the Veil of the Temple, and the diſor<g ref="char:EOLhyphen"/>der the whole frame of Nature was in at the death of her Maker.</p>
+               <p>Their Matins alſo, or Morning-Service
+<pb n="44" facs="tcp:49366:27"/>is, on the firſt three days before <hi>Eaſter</hi> begun with very many Lights, but ended in Dark<g ref="char:EOLhyphen"/>neſs; repreſenting thereby the Night-time wherein they ſeized and apprehended our Saviour in the Garden <hi>Gethſemani;</hi> in which Office there are 15 Tapers lighted at the firſt, and placed in a Candle<g ref="char:EOLhyphen"/>ſtick of a Triangular form, <hi>viz.</hi> as many as there are Canticles in the Office; and at the conclu<g ref="char:EOLhyphen"/>ſion of every Canticle or Pſalm, one of the 15 Tapers or Lights is put out, and ſo gradually, till they are all extinguiſhed.</p>
+            </div>
+            <div type="part">
+               <head>Eaſter.</head>
+               <p>The next to this great Week, that Great and High Feaſt of <hi>Eaſter,</hi> or the Reſurrection of the Holy Jeſus, after his three days Interment in the Grave, ſucceeds; and is ſtyl'd <hi>Paſche, (Paſcha)</hi> or <hi>Eaſter.</hi> 'Tis
+<pb n="45" facs="tcp:49366:27"/>call'd <hi>Paſcha,</hi> a Paſſeover (not in memory of the Angels tranſit in <hi>Egypt,</hi> (the Jewiſh Paſſeover being a Holy Action appointed by God in the killing and eating of a Lamb; partly that the Church of the Jews might remember the Be<g ref="char:EOLhyphen"/>nefits God confer'd upon them in paſſing over the Houſes, and not ſmiting them, <hi>Exod.</hi> 12.11.) but our Feaſt is celebrated in Com<g ref="char:EOLhyphen"/>memoration of the Reſurrection of Chriſt; tho we ſtill retain the Name <hi>Paſcha,</hi> not only becauſe the Lamb that was kil'd by the Jews of old in their Paſſeover, was a true Type of the Lamb of God, Chriſt Jeſus, which was ſacrificed for Man's Salvation; but becauſe at that very time he paſſed to his Father from this World <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Pe<g ref="char:EOLhyphen"/>ſach,</hi> ſignifies <hi>Tranſitio,</hi> a paſſage from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Paſach, Tranſire,</hi> to paſs) or becauſe then there was made a paſſage from an Old to a New
+<pb n="46" facs="tcp:49366:28"/>Life; in <hi>Span.</hi> nam'd <hi>Florida a flo<g ref="char:EOLhyphen"/>rido &amp; vernanti anni tempore,</hi> from the flouriſhing and Spring-time of the year in which it falls. 'Tis call'd <hi>Eaſter,</hi> from <hi>Eoſter,</hi> a God<g ref="char:EOLhyphen"/>deſs of the ancient <hi>Saxons,</hi> whoſe Feaſt they kept in the Month of <hi>April, Cam.</hi> or as <hi>Minſhew</hi> gives it in regard that then the Sun of Righteouſneſs did riſe, as the Sun in the Eaſt; and therefore <hi>Eaſter</hi> comes from the Eaſt. Now this is the <hi>Baſis</hi> of all the Lord's-Days in the year, tho it be a Moveable Feaſt, and falls ſometimes higher, ſometimes lower, (as all the Move<g ref="char:EOLhyphen"/>able Feaſts do) but the time of <hi>Eaſter</hi> being known, the reſt are ſoon diſcovered; and thus you may know when <hi>Eaſter</hi> will fall:</p>
+               <q>
+                  <l>
+                     <hi>Poſt Martis Nonas, ubi ſit Nova Luna requiras,</hi>
+                  </l>
+                  <l>
+                     <hi>Et cum tranſierit bis Septima Paſcha patebit.</hi>
+                  </l>
+               </q>
+               <pb n="47" facs="tcp:49366:28"/>
+               <p>Or thus,
+<q>
+                     <hi>Inde dies Solis tertia Paſcha venit.</hi>
+                  </q>
+               </p>
+               <p>But take it in Engliſh more plainly thus: <hi>Eaſter-Day</hi> is always the firſt Sunday after the firſt full Moon, which ſhall happen next after the 11 day of <hi>March,</hi> and if the full Moon fall on a Sunday, the Sunday after will be <hi>Eaſter Day.</hi> Now tho this Rule be true enough as to the <hi>Gregorian,</hi> yet it is not applicable to our <hi>Julian</hi> Accompt, which the Table of Moveable Feaſts in the <hi>Common-Prayer Book</hi> Calculated for 40 years regardeth only, and muſt be followed till His Majeſty Commands another; and one reaſon is, the Preceſſion of the <hi>Aequinoctium Vernum,</hi> which from the firſt <hi>Nicene</hi> Coun<g ref="char:EOLhyphen"/>cil, to this time hath Anticipated 11 days, falling now the 10th of
+<pb n="48" facs="tcp:49366:29"/>
+                  <hi>March;</hi> whereas it was on the 21th. and the reaſon of this Anti<g ref="char:EOLhyphen"/>cipation is, that the <hi>Julian</hi> exceeds the Solar year 10 Minutes, and 48 Seconds, or thereabout; which cauſes the <hi>Aequinoxes</hi> and <hi>Solſtices</hi> yearly to change their Places, and go backward ſo many Minutes and Seconds. The Lunations alſo, by reaſon of the great quantity al<g ref="char:EOLhyphen"/>low'd them, do every 19 years anticipate almoſt an hour and a half, and in 312 years and a half, one whole day; and therefore not exactly to be found by the Golden Number, tho on thoſe Lunations, <hi>Eaſter</hi> depends, as of it all the Moveable Feaſts, which is the other Cauſe of thoſe Errors, and both together the firſt occaſion of the <hi>Roman</hi> Emendation, whereby that Church doth always produce <hi>Eaſter</hi> on the Sunday following the firſt full Moon next after the <hi>Vernal Aequinox,</hi> according to
+<pb n="49" facs="tcp:49366:29"/>the Deeree of the <hi>Nicene Council.</hi> This occaſion'd that Error that all the Aſtrologers were guilty of, <hi>viz.</hi> 5. Weeks Miſtake in 1663, and one Week in 1664; and it is the 20th time it hath ſo happened ſince 1600: but in the Years 2437, 2461, 2491, there will be 42 days Error, and ſome time afterward no leſs than 49 days; and after the Year 2698, (if the Old Calendar be ſtill retain'd) it will never agen happen according to the Rule of the Church, as before: Thus far Mr. <hi>G. Wharton.</hi>
+               </p>
+               <p>
+                  <hi>Eaſter-Day,</hi> (and the reſt of the Moveable Feaſts) <hi>Anno</hi> 1668, ac<g ref="char:EOLhyphen"/>cording to the <hi>Julian Accompt,</hi> fell full as ſoon, or low in the Year, upon its neareſt Limit or Boun<g ref="char:EOLhyphen"/>dary, as ever it could, which hath not hapned from 1573, till this Year; nor will ſo fall out agen in 247 years, till the year 1915, which
+<pb n="50" facs="tcp:49366:30"/>will be 239 years from this Year, before it ſo happen.</p>
+               <p>Here you may alſo Obſerve, That <hi>Eaſter</hi> always falls between the 21th of <hi>March,</hi> and the 26th of <hi>April,</hi> theſe two dayes being ex<g ref="char:EOLhyphen"/>cluded; for it never happens on, but between them. <hi>Eaſter</hi>-day is one of his Majeſties Offering-dayes at Court, being a Houſhold-day alſo, when the Beſant is given by the Lord Steward, or one of the other White-Staffe-Officers. All the <hi>Holy-dayes</hi> in <hi>Eaſter</hi> week are his Majeſties Collar, but not Of<g ref="char:EOLhyphen"/>fering-dayes.</p>
+               <p>Next follows the <hi>Quinquageſimal</hi> Interval of 50 dayes between <hi>Ea<g ref="char:EOLhyphen"/>ſter</hi> and <hi>Whitſontide,</hi> which the Primitive Chriſtians obſerv'd as an intire Feſtival, in honour of the Reſurrection and Aſcenſion of the Holy Ghoſt, with great Exul<g ref="char:EOLhyphen"/>tation and exceeding Joy, it con<g ref="char:EOLhyphen"/>tains 6 <hi>Sundays.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:49366:30"/>
+               <head>Low-Sunday.</head>
+               <p>The firſt is Low-Sunday, <hi>Domi<g ref="char:EOLhyphen"/>nica in Albis,</hi> or <hi>Quaſimodogeniti.</hi> 'Tis ſtyl'd <hi>Low-Sunday,</hi> becauſe 'tis a Low Feſtival in compariſon of <hi>Eaſter</hi>-Day, the preceding high Feſtival. It is the Octave of <hi>Eaſter</hi>-Day, nam'd <hi>Dominica in Albis,</hi> in regard of the Angels who appear'd at the Reſurrection in White Gar<g ref="char:EOLhyphen"/>ments; and from the <hi>Catechumeni,</hi> or <hi>Neophyts (i.e.</hi> perſons lately Converted to the Faith, newly taught the Principles of Religion, but not Baptiz'd; or if Baptiz'd, not yet admitted to the Euchariſt, White Garments, (the Emblems of Innocence) which in old times they uſually put on at their Bap<g ref="char:EOLhyphen"/>tiſm, and in the Church on this day were ſolemnly deveſted of them; or for that thoſe who had been Baptiz'd, receiv'd then the
+<pb n="52" facs="tcp:49366:31"/>Biſhop's Confirmation, and put on other white Veſtments, which they wore till the next <hi>Sunday.</hi> 'Tis call'd <hi>Quaſimodogeniti,</hi> from the entrance, in the 1 <hi>Peter,</hi> 2.2. <hi>Qua<g ref="char:EOLhyphen"/>ſimodogeniti Infantes Rationabiles ſine dolore lac concupiſcite.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. George.</head>
+               <p>
+                  <hi>April</hi> the 23th. is the Day De<g ref="char:EOLhyphen"/>dicated to the Memory of <hi>St. George,</hi> the Martyr, of <hi>Cappadocia,</hi> and is honoured by the <hi>Georgians</hi> the Inhabitants of a Country call'd <hi>Georgia.</hi> ſituated between <hi>Colchos, Caucaſus,</hi> the <hi>Caſpian</hi>-Sea, and <hi>Ar<g ref="char:EOLhyphen"/>menia,</hi> heretofore <hi>Iberia</hi> and <hi>Alba<g ref="char:EOLhyphen"/>nia;</hi> they do highly reverence and honour this Saint. He alſo is our Patron, and the ſame Perſon that the Knights of the Garter have formerly ſo much honoured, they being alwayes, on that day only, Inſtall'd at <hi>Windſor.</hi> This
+<pb n="53" facs="tcp:49366:31"/>is one of his Majeſties Collar-days without Offering, at <hi>White-Hall.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. Mark.</head>
+               <p>The 25th of this Month is St. <hi>Mark</hi>'s Day. A Feaſt in Honour of the Evangeliſt, who wrote the Life, Acts, Miracles, Death and Re<g ref="char:EOLhyphen"/>ſurrection of our Saviour Chriſt. He was the firſt Prelate of <hi>Alexan<g ref="char:EOLhyphen"/>dria,</hi> where he Taught the Goſpel, and alſo all over the adjacent Re<g ref="char:EOLhyphen"/>gions from the Country of <hi>Aegypt</hi> to <hi>Pentapolis.</hi> He was Martyr'd at <hi>Alexandria</hi> in the time of the Ty<g ref="char:EOLhyphen"/>rant <hi>Trajan,</hi> which was thus exe<g ref="char:EOLhyphen"/>cuted. They faſtned a Cable-Rope about his Neck, wherewith they dragg'd him from the place call'd <hi>Bucolus,</hi> to another term'd <hi>Angels,</hi> where the raging Idola<g ref="char:EOLhyphen"/>ters burned him to aſhes, (againſt whom he preached) <hi>Anno Domini</hi> 63. and was Interred at <hi>Bucolus</hi>
+                  <pb n="54" facs="tcp:49366:32"/>praemention'd. This is one of his Majeſties Collar-dayes without offering.</p>
+            </div>
+            <div type="part">
+               <head>Miſericordia.</head>
+               <p>The ſecond <hi>Sunday</hi> after <hi>Eaſter</hi> is term'd <hi>Miſericordia,</hi> from the Entrance of the fifth Verſe of the 32 <hi>Pſalm, Miſericordia Domini ple<g ref="char:EOLhyphen"/>na eſt Terra,</hi> &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Philip and Iacob.</head>
+               <p>
+                  <hi>May-Day,</hi> or St. <hi>Philip,</hi> and St. <hi>James,</hi> vulgarly, but falſly call'd <hi>Philip and Jacob; (Philip</hi> is a <hi>Greek</hi> word, and ſignifies a Lover of Horſes. <hi>Jacob, Hebr.</hi> a Supplanter, <hi>May-day</hi> 'tis call'd, becauſe the firſt of <hi>May,</hi> a day of Mirth and Jollity among the Common Herd; and <hi>Philip</hi> and <hi>James,</hi> becauſe dedica<g ref="char:EOLhyphen"/>ted to the two Apoſtles and Mar<g ref="char:EOLhyphen"/>tyrs of that name. The former of the City of <hi>Bethſaida,</hi> who prea<g ref="char:EOLhyphen"/>ched
+<pb n="55" facs="tcp:49366:32"/>in <hi>Phrygia,</hi> and Converted the Eunuch <hi>Candaules.</hi> It is af<g ref="char:EOLhyphen"/>firm'd by ſome Authors, that he ſent 12 Diſciples into our Coun<g ref="char:EOLhyphen"/>try of <hi>Britain,</hi> to work the Con<g ref="char:EOLhyphen"/>verſion of them. In concluſion, the <hi>Pagans</hi> ſeized him, and put him to the Ignominious death of his Lord and Maſter, at the City <hi>Hierapolis,</hi> about the Year of our Lord, 53.</p>
+               <p>The later, <hi>viz.</hi> St. <hi>James</hi> the Leſſer, <hi>(James</hi> is a Name wreſted from <hi>Jacob</hi>) was Son to <hi>Alphaeus</hi> and Pen-man of that Excel<g ref="char:EOLhyphen"/>lent Epiſtle which goes un<g ref="char:EOLhyphen"/>der his Name; for his Wiſdome and Piety ſirnamed <hi>the Juſt.</hi> He was created Biſhop of <hi>Jeruſalem</hi> after the Aſcenſion; and Govern<g ref="char:EOLhyphen"/>ed that Church 30 years com<g ref="char:EOLhyphen"/>pleat; where he was moſt Inhu<g ref="char:EOLhyphen"/>manely firſt ſtoned, and afterward being placed on the Top of a Pi<g ref="char:EOLhyphen"/>nacle of the Temple, precipitated
+<pb n="56" facs="tcp:49366:33"/>from thence, and being half dead, and his Thighes broken, and lift<g ref="char:EOLhyphen"/>ing up his hands to <hi>Heaven,</hi> he was knock'd on the head with a great Fuller's Club; this Bloody Butchery was Executed on this Saint in the Seventh Year of the Sanguinary Emperour <hi>Nero.</hi> This is alſo one of his Majeſtie's Collar<g ref="char:EOLhyphen"/>days without Offering.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Holy Croſs,</hi> or <hi>Holy-Rood-day.</hi>
+               </head>
+               <p>
+                  <hi>May</hi> the 3d, is <hi>Inventio Crucis, i. e.</hi> the Invention of the <hi>Holy-Croſs,</hi> or <hi>Holy-Rood-day,</hi> and is in the <hi>Roman,</hi> tho not in our Rubrick; of which there are two call'd <hi>Ho<g ref="char:EOLhyphen"/>ly-Rood</hi>-dayes, <hi>viz.</hi> this, being on the 3d. of <hi>May,</hi> and the Exaltation of the Croſs on the 14th of <hi>Septem<g ref="char:EOLhyphen"/>ber.</hi> 'Tis a Feaſt in Commemora<g ref="char:EOLhyphen"/>tion (as the <hi>Romaniſts</hi> believe) of the Miraculous and Wonderful Invention, or finding out the <hi>Holy
+<pb n="57" facs="tcp:49366:33"/>Croſs,</hi> on which the Bleſſed Jeſus ſuffered, by St. <hi>Helen,</hi> the Mother of <hi>Conſtantine</hi> the Great, after it had been conceal'd and buried in the Earth by the Painims, the ſpace of 180 years, in place where<g ref="char:EOLhyphen"/>of they had erected a Statue to their wanton Deity, <hi>Venus.</hi> 'Tis called <hi>Holy-Rood-Day,</hi> and <hi>Holy Croſs,</hi> becauſe of the great Sanctity it receiv'd, by touching and bear<g ref="char:EOLhyphen"/>ing the Oblation of the moſt pre<g ref="char:EOLhyphen"/>cious Body of Chriſt, and <hi>Rood</hi> is an old <hi>Saxon</hi> word, ſignifying a Croſs, or the Image of Chriſt on the Croſs, being compos'd gene<g ref="char:EOLhyphen"/>rally of Wood, and erected in a Loft for that purpoſe, juſt over the paſſage of the Church into the Chancel. <hi>Fuller.</hi>
+               </p>
+               <p>The third Sunday after <hi>Eaſter</hi> as it falls in courſe here, is ſtyl'd <hi>Ju<g ref="char:EOLhyphen"/>bilate,</hi> from the beginning of Pſalm the 65. <hi>Jubilate Deo omnis Terra,</hi> &amp;c.</p>
+               <pb n="58" facs="tcp:49366:34"/>
+               <p>The fourth Sunday <hi>Cantate,</hi> from the entrance of the 98th Pſalm, <hi>Cantate Domino Cantieum Novum,</hi> &amp;c.</p>
+               <p>
+                  <hi>May</hi> the 14th. our moſt Gra<g ref="char:EOLhyphen"/>cious and Soveraign Princeſs <hi>Don<g ref="char:EOLhyphen"/>na Catarina</hi> Landed at <hi>Portſmouth,</hi> in order to the confirmation of her ſolemn Nuptials, with His Maje<g ref="char:EOLhyphen"/>ſty our Dread Soveraign, <hi>Charles</hi> the Second, whom God long pre<g ref="char:EOLhyphen"/>ſerve in health and happineſs.</p>
+            </div>
+            <div type="part">
+               <head>Rogation-Sunday.</head>
+               <p>Next follows <hi>Rogation-Sunday,</hi> the fifth Sunday after <hi>Eaſter,</hi> (the Week following is call'd <hi>Rogation-Week,</hi> or <hi>Vocem Jucunditatis,</hi> the Inſtitution or Reſtauration where<g ref="char:EOLhyphen"/>of, is by Hiſtorians attributed to <hi>Claudius Mamertus,</hi> or <hi>Mamercus</hi> Biſhop of <hi>Vienne</hi> in <hi>France, Anno Dom.</hi> 452. or as ſome ſay, 466.
+<pb n="59" facs="tcp:49366:34"/>being the fifth Sunday after <hi>Eaſter,</hi> from the like entrance <hi>Vocem Ju<g ref="char:EOLhyphen"/>cunditatis annunciate &amp; audia<g ref="char:EOLhyphen"/>tur,</hi> &amp;c. and <hi>Rogation Sunday,</hi> or Week, which is always the next but one before <hi>Whitſunday, à Ro<g ref="char:EOLhyphen"/>gando Deum,</hi> as being once (tho we cannot affirm that now) Conſe<g ref="char:EOLhyphen"/>crated above all other Weeks of the year in an extraordinary man<g ref="char:EOLhyphen"/>ner, unto Prayers, Litanies, and Supplications, (and are ſtill en<g ref="char:EOLhyphen"/>joyn'd by the Church to all per<g ref="char:EOLhyphen"/>ſons among the Roman Catholicks on <hi>Monday, Tueſday,</hi> and <hi>Wedneſ<g ref="char:EOLhyphen"/>day)</hi> with Abſtinence from fleſh, for theſe Reaſons: Firſt, for a Devout Preparative to the Feaſt of Chriſt's moſt glorious Aſcen<g ref="char:EOLhyphen"/>ſion, and Pentecoſt, which is ſhort<g ref="char:EOLhyphen"/>ly after. 2. Becauſe the fruits of the Earth are tender, and in dan<g ref="char:EOLhyphen"/>ger, being in the Bloſſom. 3. For that much about this time of the year, Monarchs and Potentates
+<pb n="60" facs="tcp:49366:35"/>begin to undertake their Wars; upon both which Conſiderations, all Good and Pious Chriſtians have great Reaſon to be frequent with God in Rogations and Pray<g ref="char:EOLhyphen"/>ers, at this time, particularly; and for this cauſe it is, that the So<g ref="char:EOLhyphen"/>lemnization of Matrimony is pro<g ref="char:EOLhyphen"/>hibited by the Holy Church from the firſt day in this Week, until <hi>Trinity</hi> Sunday following. The <hi>Belgians</hi> or <hi>Dutch</hi>-men call it <hi>Cruys-Week,</hi> that is, Croſs-week; and ſo 'tis alſo nam'd in ſome Parts of <hi>England,</hi> becauſe the Prieſt on theſe days goes in Proceſſion with the Croſs before him.</p>
+               <p>In the old <hi>Saxon</hi> 'tis nam'd <hi>Gang<g ref="char:EOLhyphen"/>dagas, i. e.</hi> Dayes of Walking or Perambulation. In the North of <hi>England</hi> Gang-week, from the ganging or going in Proceſſion (for <hi>Gang</hi> there, as well as in the <hi>Saxon,</hi> ſignifies to go) from an An<g ref="char:EOLhyphen"/>tient and Commendable Cuſtome
+<pb n="61" facs="tcp:49366:35"/>(tho diſcontinued in the time of the late Unnatural Rebellion) to make Perambulations and Proceſ<g ref="char:EOLhyphen"/>ſions with the Young Children in every Pariſh and Townſhip with us, to view and underſtand the Ancient Limits and Boundaries of every Pariſh, to prevent all man<g ref="char:EOLhyphen"/>ner of Incroachments, Contenti<g ref="char:EOLhyphen"/>ons and Suits at Law. In the Inns of Court 'tis known by the name of Graſs-week, becauſe the Stu<g ref="char:EOLhyphen"/>dents Commons on ſome days that Week, conſiſt much of Salads, hard Eggs, and Green-ſauce.</p>
+               <p>The <hi>Robigalia</hi> and <hi>Ambarvalia</hi> of the Antient <hi>Romans,</hi> did, after their <hi>Heatheniſh</hi> manner, in ſome<g ref="char:EOLhyphen"/>thing, reſemble theſe In<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itutions; They were call'd <hi>Robigalia,</hi> from <hi>Robigus,</hi> one of their numerous Deities, to whom they aſcribed the preſerving of Corn from Blaſting, therefore theſe Feaſts were ſacred
+<pb n="62" facs="tcp:49366:36"/>to him particularly. And <hi>Ambar<g ref="char:EOLhyphen"/>valia, quòd victima arva ambiret,</hi> becauſe the Sacrifice to be offered at that time did walk round the Fields.</p>
+               <p>
+                  <hi>May</hi> the 21th. 1662. K. <hi>Charles</hi> was Married at <hi>Portſmouth</hi> to <hi>Don<g ref="char:EOLhyphen"/>na Catarina, Infanta</hi> of <hi>Portugal,</hi> by <hi>Gilbert</hi> Biſhop of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>May</hi> the 22. is a Feaſt dedicated by the <hi>Romaniſts</hi> to one <hi>Julia,</hi> a Ho<g ref="char:EOLhyphen"/>ly, Devout Virgin, and is placed in their Rubrick, not mention'd in our Calendar.</p>
+            </div>
+            <div type="part">
+               <pb n="63" facs="tcp:49366:36"/>
+               <head>
+                  <hi>Holy Thurſday,</hi> or <hi>Aſcenſion-Day.</hi>
+               </head>
+               <p>The next Feaſt celebrated by our Holy Mother the Church, is <hi>Holy-Thurſday,</hi> or <hi>Aſcenſion-Day,</hi> which is the 40th day after <hi>Eaſter,</hi> or his Reſurrection; call'd <hi>Holy-Thurſday,</hi> becauſe ſo Holy a Work was perform'd on this Holy-day; and <hi>Aſcenſion-day,</hi> in memory of our Saviour's Aſcenſion into Hea<g ref="char:EOLhyphen"/>ven, in the ſight of his Apoſtles and Diſciples then preſent, <hi>Acts</hi> 1.9. there to prepare a place for all true Chriſtians, being preceded by whole Legions of Angels, and attended by Millions of Saints, whom he had diſcharged &amp; ſet at large out of their imaginary Priſon of <hi>Limbo:</hi> (as the <hi>Romaniſts</hi> fond<g ref="char:EOLhyphen"/>ly conceive) In ſhort, and in truth, this Feſtival of Chriſt's Aſcenſion, is the Conſummation of all he did
+<pb n="64" facs="tcp:49366:37"/>and taught, during his Reſidence here upon Earth, and therefore it was (not without great reaſon) termed by the Antients, <hi>Felix Clauſula totius Itinerarii Filii Dei,</hi> the Sabbath, or Conſummation of all his labour in the Great and ſtupendous Work of Man's Re<g ref="char:EOLhyphen"/>demption. This is one of his Ma<g ref="char:EOLhyphen"/>jeſties Offering-dayes.</p>
+               <p>Next comes the 6th Sunday af<g ref="char:EOLhyphen"/>ter <hi>Eaſter,</hi> call'd <hi>Exaudi,</hi> from the beginning of the 27th Pſalm, <hi>Ex<g ref="char:EOLhyphen"/>audi Domine vocemmeam,</hi> &amp;c.</p>
+               <p>The Week after Aſcenſion-Day is Expectation-Week; for now the Apoſtles were earneſtly expecting the promiſe of our Lord; <hi>If I go away, I will ſend the Comforter to you,</hi> Jo. 16.7.</p>
+            </div>
+            <div type="part">
+               <pb n="65" facs="tcp:49366:37"/>
+               <head>
+                  <hi>King Charles</hi> 2d. <hi>Nat.</hi>
+               </head>
+               <p>
+                  <hi>May</hi> the 29th is Celebrated up<g ref="char:EOLhyphen"/>on a double account, firſt in Com<g ref="char:EOLhyphen"/>memoration of the Birth of our Soveraign King <hi>Charles</hi> the Second, the Princely Son of his Royal Fa<g ref="char:EOLhyphen"/>ther <hi>Charles</hi> the Firſt of happy Memory, and <hi>Mary</hi> the Daughter of <hi>Henry</hi> the 4th, the <hi>French</hi> King, who was born the 29th day of <hi>May, Anno</hi> 1630. and alſo by Act of Parliament 12 <hi>Car.</hi> 2. by the Paſſionate deſires of the People, in Memory of his moſt Happy Re<g ref="char:EOLhyphen"/>ſtauration to his Crown and Dig<g ref="char:EOLhyphen"/>nity, after 12 years forced Exile from his undoubted Right, the Crown of <hi>England,</hi> by Barbarous Rebels and Regicides; and on the 8th of this Month his Majeſty was with Univerſal Joy and great Ac<g ref="char:EOLhyphen"/>clamations Proclaim'd in <hi>London</hi> &amp; <hi>Weſtminſter,</hi> and after through<g ref="char:EOLhyphen"/>out
+<pb n="66" facs="tcp:49366:38"/>all his Dominions; the 16th he came to the <hi>Hague;</hi> the 23th with his two Brothers Embarqued for <hi>England,</hi> and on the 25th he happily Landed at <hi>Dover,</hi> being received by General <hi>Monk</hi> and ſome of the Army; From whence he was, by ſeveral Voluntary Troops of the Nobility and Gen<g ref="char:EOLhyphen"/>try, waited upon to <hi>Canterbury,</hi> and on the 29th 1660, he made his Magnificent Entrance into that <hi>Emporium</hi> of <hi>Europe,</hi> his Stately and Rich <hi>Metropolis,</hi> the Renown<g ref="char:EOLhyphen"/>ed City of <hi>London.</hi> On this very day alſo <hi>Anno</hi> 1662. the King came to <hi>Hampton-Court</hi> with his Queen <hi>Catharine</hi> after his Marriage at <hi>Portſmouth,</hi> as is before mention'd. This as it is his Birth-day is one of his Collar-days without Offer<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="part">
+               <pb n="67" facs="tcp:49366:38"/>
+               <head>
+                  <hi>Pentecoſt</hi> or <hi>Whitſunday.</hi>
+               </head>
+               <p>After this ſucceeds the Grand Solemnity of <hi>Pentecoſt</hi> or <hi>Whit<g ref="char:EOLhyphen"/>ſunday. Pentecoſt,</hi> from the <hi>Greek,</hi> becauſe 'tis the 50th day from <hi>Eaſter</hi> or <hi>Chriſt</hi>'s Reſurrection; and <hi>Whitſunday,</hi> or <hi>White-Sunday,</hi> from the <hi>Catechumeni,</hi> who were apparell'd in White Garments, and on the Eve of this Feaſt admitted to the Sacrament of Baptiſme. But <hi>Verſtegan</hi> affirms, That it was of old nam'd by our fore-fathers, <hi>Wied</hi>-Sunday, or <hi>Wihed</hi>-Sunday, becauſe <hi>Wied</hi> or <hi>Wihed,</hi> in the <hi>Saxon</hi> Tongue, ſignifies Sacred. Now this Feſtival was antiently celebrated among the <hi>Jewes</hi> on the 50th day after the Paſſeover, in the memory of Promulgation of the Divine Law of God on Mount <hi>Sinai;</hi> and our <hi>Whitſunday</hi> is kept 50 dayes after <hi>Eaſter</hi> by all
+<pb n="68" facs="tcp:49366:39"/>True and Good Chriſtians; to commemorate the Miſſion of the Holy Ghoſt, on that day, (which deſcended on the heads of the A<g ref="char:EOLhyphen"/>poſtles, in Tongues reſembling fire, <hi>Act.</hi> 2.3.) who is the only and moſt Infallible Interpreter of the Divine Law. This is one of his Majeſtie's Offering-dayes, and a Houſhold-day when the Beſant is given by the Lord Steward, or one of the other White Staff-Officers, and all the Holy-dayes, in <hi>Whit<g ref="char:EOLhyphen"/>ſun-Week,</hi> are Collar-days without Offering.</p>
+               <p>
+                  <hi>Ember</hi>-Week follows <hi>Whitſun</hi>-day, which is one of the 4 Grand Seaſons of the Year, as is before ſpecified at large.</p>
+            </div>
+            <div type="part">
+               <head>Trinity-Sunday.</head>
+               <p>
+                  <hi>Trinity</hi>-Sunday falls next in courſe, (which is always the Lord's
+<pb n="69" facs="tcp:49366:39"/>day following, and the <hi>Octave</hi> of <hi>Whitſunday</hi>) ſo nominated in Ho<g ref="char:EOLhyphen"/>nour of the moſt Bleſſed Trinity; and to ſignifie unto us, that the holy Works of our Redemption and Sanctification, which were then Conſummated, are common to all Three Perſons in the Trinity. This Feſtival was firſt Inſtituted by <hi>Gregory</hi> the 4th, who then ſate in the Epiſcopal Chair, in the year of our Lord 827. It is one of his Majeſties Offering-days at <hi>White-Hall.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. Barnabas.</head>
+               <p>
+                  <hi>June</hi> the 11th. St. <hi>Barnabas</hi> the Apoſtle comes next in the Calen<g ref="char:EOLhyphen"/>dar; commonly call'd <hi>Barnaby.</hi> The Name is <hi>Hebrew,</hi> ſignifying <hi>Son of the Maſter, of Prophecy,</hi> or <hi>of Comfort.</hi> The proper Name gi<g ref="char:EOLhyphen"/>ven him at his Circumciſion was <hi>Joſes,</hi> for <hi>Joſeph,</hi> by a ſweeter Ter<g ref="char:EOLhyphen"/>mination,
+<pb n="70" facs="tcp:49366:40"/>or Cadence: From the Apoſtles he received the Sirname of <hi>Barnabas;</hi> He was born in the Iſle of <hi>Cyprus,</hi> an Iſland in the <hi>Me<g ref="char:EOLhyphen"/>diterranean,</hi> between <hi>Cilicia, Syria,</hi> and <hi>Aegypt,</hi> whoſe Anceſtors fled thither for their greater ſafety, in the Tumultuous and Diſtracted Government of <hi>Antiochus Epi<g ref="char:EOLhyphen"/>phanes,</hi> or as ſome imagine, when <hi>Pompey</hi> with his <hi>Romans</hi> Conquer<g ref="char:EOLhyphen"/>ed <hi>Judaea.</hi> He deſcended of the Tribe of <hi>Levi;</hi> his Parents were Opulent, and Pious; he was com<g ref="char:EOLhyphen"/>mitted to the Tutelage of the Great Doctor of the Law, <hi>Gamaliel,</hi> at whoſe Feet he was educated with his Fellow-Pupil St. <hi>Paul.</hi> He was an Eye-witneſs of the Miracle in the Cure of the Paralytick at the Pool of <hi>Betheſda,</hi> which ſoon con<g ref="char:EOLhyphen"/>vinced him of the Divinity of our Saviour. He was one of the 70; ſold all his Lands on Earth to Pur<g ref="char:EOLhyphen"/>chaſe in Heaven; and when God
+<pb n="71" facs="tcp:49366:40"/>gave <hi>Saul</hi> his <hi>Fiat</hi> for an Apoſtle's Place, they two were Joynt-Com<g ref="char:EOLhyphen"/>miſſioners for the Church, Fellow-Travellers, Conſorts, and Zealots for Chriſt, <hi>&amp;c.</hi> Dr. <hi>Brough</hi> on the Feſt: And both Preached the Go<g ref="char:EOLhyphen"/>ſpel in <hi>Seleucia, Salamis, Paphos, Cyprus, Perga</hi> in <hi>Pamphilia;</hi> and here <hi>Mark</hi> the Son of <hi>Barnabas</hi> his Siſter <hi>Mary,</hi> whom they took with them, as their Miniſter and Attendant, weary of this Trou<g ref="char:EOLhyphen"/>bleſome, Itinerant Life, departed from them, (which occaſion'd the unhappy Difference between theſe two Apoſtles <hi>Paul</hi> and <hi>Barnabas</hi>) afterwards they Travell'd to <hi>Ico<g ref="char:EOLhyphen"/>nium, Lyſtra, Derbe,</hi> and ſo back to <hi>Antioch,</hi> and then they parted with ſome diſcontent, becauſe <hi>Barnabas</hi> would take his Couſin <hi>Mark</hi> with him, which St. <hi>Paul</hi> denied, by reaſon of his weak Deſertion, and he went to <hi>Silas,</hi> but <hi>Barnabas</hi> with his Couſin <hi>Mark</hi> to his own Coun<g ref="char:EOLhyphen"/>try
+<pb n="72" facs="tcp:49366:41"/>
+                  <hi>Cyprus,</hi> though ſome ſay <hi>Rome,</hi> but 'tis moſt probable <hi>Cyprus,</hi> in the laſt period of his Life, where he Converted great numbers; but ſome <hi>Syrian</hi> Jews coming to <hi>Sala<g ref="char:EOLhyphen"/>mis,</hi> where he then was furiouſly ſet upon as he was Teaching in the Synagogue, in a Corner whereof they ſhut him up till night; then brought him forth, and after un<g ref="char:EOLhyphen"/>expreſſible Tortures, ſtoned him. This <hi>Barnaby</hi>-day, or thereabout, is the Summer Solſtice or Sun-ſted, when the Sun ſeems to ſtand, and begins to go back, being the long<g ref="char:EOLhyphen"/>eſt day in the year; about the 11th or 12th of <hi>June;</hi> it is taken for the whole time, when the days appear not for 14 days together either to lengthen, or ſhorten.</p>
+            </div>
+            <div type="part">
+               <head>Corpus-Chriſti.</head>
+               <p>
+                  <hi>June</hi> the 14th is <hi>Corpus-Chriſti</hi>-day, that is the Feſtival of the Body
+<pb n="73" facs="tcp:49366:41"/>of our Lord, a Feaſt that owes its Inſtitution to <hi>Urban</hi> the 4th Pre<g ref="char:EOLhyphen"/>late of <hi>Rome,</hi> about the year of God 1264. in honour of the Body of Chriſt, or Bleſſed Sacrament of the Altar. On this Day in all Catholick Countreys, during the Octave of this Feaſt, and the Sacra<g ref="char:EOLhyphen"/>ment is moſt ſolemnly carried a<g ref="char:EOLhyphen"/>bout in Proceſſion, to be adored by the People; the Prieſts and they all Expreſſing their Devotion in Hymns, Songs, and Prayers, ac<g ref="char:EOLhyphen"/>companied with all the Teſtimo<g ref="char:EOLhyphen"/>nies of Pious Affections (as they term it) as Muſick, Lights, Flowers ſtrewed all along the Streets, their richeſt Tapeſtries hung out upon the Walls, <hi>&amp;c.</hi>
+               </p>
+               <p>The next Sunday is the firſt Sunday after Trinity, and the Sundays after are call'd 1ſt, 2d, 3d, <hi>&amp;c.</hi> according to their Nume<g ref="char:EOLhyphen"/>ral order, from their ſucceſſion
+<pb n="74" facs="tcp:49366:42"/>of Trinity, till the 1ſt <hi>Advent-Sunday.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. Iohn Baptiſt.</head>
+               <p>The 24th of <hi>June</hi> is <hi>St. John Bap<g ref="char:EOLhyphen"/>tiſt</hi>'s, or commonly <hi>Midſummer</hi>-Day, which needs no interpreta<g ref="char:EOLhyphen"/>tion. The Name <hi>John</hi> in Hebrew is <hi>Gracious,</hi> and <hi>Baptiſt</hi> is a Greek word, ſignifying <hi>Waſher</hi> or <hi>Dipper,</hi> by way of Eminence; becauſe he Baptized our Saviour in the River <hi>Jordan,</hi> and was the firſt that Bap<g ref="char:EOLhyphen"/>tized. This Feſtival is in Comme<g ref="char:EOLhyphen"/>moration of St. <hi>John,</hi> the Son of <hi>Zachary</hi> and <hi>Elizabeth,</hi> who was one of the Tribe of <hi>Levi,</hi> and he that ſhewed us the Lamb of God, who taketh away the Sins of the World, yet was this Devout and Auſtere Saint, the Praecurſor or Fore-runner of our Saviour, be<g ref="char:EOLhyphen"/>headed by <hi>Herod</hi> the Blood-thirſty Tetrarch, at the deſire and requeſt
+<pb n="75" facs="tcp:49366:42"/>of <hi>Herodias</hi> (the Relict of his Bro<g ref="char:EOLhyphen"/>ther <hi>Philip) Anno Dom.</hi> 30. This is one of His Majeſtie's Offering-Days at <hi>Whitehall,</hi> and the day appointed for the Election of the two Sheriffs of <hi>London</hi> and <hi>Middle-ſex.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>St. Peter</hi> and <hi>St. Paul.</hi>
+               </head>
+               <p>On the 29th of <hi>June</hi> is cele<g ref="char:EOLhyphen"/>brated the Feaſt of <hi>St. Peter</hi> and <hi>St. Paul. Peter</hi> in the Greek ſig<g ref="char:EOLhyphen"/>nifies a Stone, or Rock; <hi>Paul,</hi> He<g ref="char:EOLhyphen"/>brew, Wonderful, or worſt; but Cardinal <hi>Baronius</hi> derives it from the Latin, and makes it ſignifie Little, or Humble. They are both joyned in one Solemnity for theſe Reaſons; becauſe they were both Principal and Joynt Co-operators under our Lord and Saviour, in the Converſion of the World; it falling to St. <hi>Peter</hi>'s lot to Con<g ref="char:EOLhyphen"/>vert the Jews, and St. <hi>Paul</hi>'s, the
+<pb n="76" facs="tcp:49366:43"/>Gentiles; for this Cauſe St. <hi>Paul</hi> was nam'd the Apoſtle of the Gen<g ref="char:EOLhyphen"/>tiles; as alſo in regard they were both Martyr'd at <hi>Rome.</hi> St. <hi>Peter,</hi> the Chief and Head of the Apo<g ref="char:EOLhyphen"/>ſtles, Preached the Goſpel in <hi>Pon<g ref="char:EOLhyphen"/>tus, Cappadocia, Bithynia</hi> and <hi>Gala<g ref="char:EOLhyphen"/>tia,</hi> and at laſt at <hi>Rome,</hi> where he was diſgracefully Crucified under that Tyrant and Monſter of Men, <hi>Nero,</hi> with his Head downward; for according to Tradition, it was his own deſire, and there he was alſo Interred.</p>
+               <p>St. <hi>Paul,</hi> whoſe former Name was <hi>Saul</hi> (Hebr. <hi>Lent of the Lord,</hi> or as ſome will have it, <hi>Fox</hi>) before his Converſion; being a violent Perſecutor; when St. <hi>Stephan</hi> was ſtoned; kept the Murderers Cloaths; and when cruel Com<g ref="char:EOLhyphen"/>miſſioners were ſent to Scourge, Kill and ſlay all that called on the Name of Chriſt, he carried the
+<pb n="77" facs="tcp:49366:43"/>Letters. He was a Jew born, brought up at the feet of <hi>Gamaliel,</hi> Learned and (his Principle par<g ref="char:EOLhyphen"/>doned) Conſcientious too. The Voice of our Saviour to him out of Heaven, <hi>Acts</hi> 9.38. with a Light, ſtrook him blind, and down, and did both unhorſe and un-Jew him. He ask'd, and was directed what courſe to ſteer; goes to <hi>Ananias,</hi> and receives at once his Sight and Baptiſm; and thenceforth the World becomes his Charge, and Conqueſt; and the Gentiles his ſpecial care. Being thus called after Chriſt's Aſſump<g ref="char:EOLhyphen"/>tion, and Regiſtred in the Cata<g ref="char:EOLhyphen"/>logue of his Apoſtles; he Preached the Goſpel (the Profeſſors whereof he formerly perſecuted with ſo great fury and heat) from <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> to <hi>Illyricum, Spain</hi> and <hi>Italy,</hi> and was beheaded by the bloody Sword of the Emperor <hi>Nero,</hi> on a Sunday, being the third Calends
+<pb n="78" facs="tcp:49366:44"/>of <hi>July,</hi> or the 29th of <hi>June,</hi> ac<g ref="char:EOLhyphen"/>cording to our <hi>Julian</hi> Computa<g ref="char:EOLhyphen"/>tion, and ſo was alſo St. <hi>Peter;</hi> now as they both ſuffered, they both lye buried together. This Day the Church keeps, and we moſt concern'd (his Gentile-Converts) have greateſt cauſe of all to obſerve to his Memory, but to thy Glory, O Chriſt! Dr. <hi>Brough</hi> of the Holy Feaſts and Feſtivals of the Church of <hi>England.</hi> This is one of the King's Collar-days without Offering.</p>
+            </div>
+            <div type="part">
+               <head>Viſitation of Mary.</head>
+               <p>In <hi>July,</hi> the firſt we meet with, is the <hi>Viſitation of Mary,</hi> inſtituted and obſerv'd by the Church of <hi>Rome,</hi> in Honor of the Mother of God; and in Memory of her vi<g ref="char:EOLhyphen"/>ſiting St. <hi>Elizabeth,</hi> after ſhe had Conceiv'd the Son of God; at whoſe preſence, St. <hi>John the Bap<g ref="char:EOLhyphen"/>tiſt</hi>
+                  <pb n="79" facs="tcp:49366:44"/>leaped in the Womb of his Mother, St. <hi>Luke</hi> 1.41. This is a Feſtival in the <hi>Roman</hi> Rubrick, not in ours.</p>
+            </div>
+            <div type="part">
+               <head>St. Swithin's-Day.</head>
+               <p>On the 15th of this Month is St. <hi>Swithin</hi>'s-Day (<hi>Swithin</hi> Saxon comes from the old Engliſh <hi>Swith<g ref="char:EOLhyphen"/>eahn,</hi> that is, very High, as <hi>Celſus</hi> with the <hi>Romans.</hi>) This name was taken up in Honour of St. <hi>Swithin,</hi> the Holy Biſhop of <hi>Wincheſter,</hi> about the year of our Lord 860, and call'd the Weeping St. <hi>Swi<g ref="char:EOLhyphen"/>thin;</hi> for that about this time <hi>Prae<g ref="char:EOLhyphen"/>ſepe &amp; Aſelli,</hi> two Rainy Conſtel<g ref="char:EOLhyphen"/>lations in the Sign <hi>Cancer</hi> ariſe Coſmically (that is together with the Sun, or in the ſame Degree of the Ecliptick with him) and com<g ref="char:EOLhyphen"/>monly cauſe Rains. <hi>Cambden.</hi>
+               </p>
+               <p>
+                  <hi>Dog-days, Dies Caniculares,</hi> or
+<pb n="80" facs="tcp:49366:45"/>
+                  <hi>Sirius;</hi> certain days that begin to<g ref="char:EOLhyphen"/>ward the latter end of <hi>June,</hi> and end the latter end of <hi>Auguſt,</hi> ſo call'd of <hi>Canicula,</hi> the little Dog<g ref="char:EOLhyphen"/>ſtar, which then riſeth with the Sun, being Predominant, and greatly increaſeth his heat, during the time of its Reign.</p>
+               <p>'Tis nam'd <hi>Sirius</hi> from the Greek, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e. Siccand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> to dry up; <hi>Propterea quod &amp; fluvios &amp; fontes nimio calore exiccet,</hi> becauſe it dries up the Rivers and Fountains by its Ex<g ref="char:EOLhyphen"/>ceſſive heat; <hi>vel</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ab evacuando,</hi> from evacuating, <hi>quod Corpora noſtra ſudoribus evacuet;</hi> becauſe it cleanſeth our Bodies by ſweat.</p>
+               <p>Here I preſume we may ap<g ref="char:EOLhyphen"/>poſitely inſert an account of the <hi>Spaniſh Invaſion,</hi> abſtracted out of Hiſtory; becauſe they
+<pb n="81" facs="tcp:49366:45"/>were Engaged, and Diſcomfitted this Month,</p>
+               <p>In the 21th year of the Reign of Q. <hi>Eliz. Anno Dom.</hi> 1588. the <hi>Spaniſh</hi> Invaſion hapned; Their Navy conſiſted of 130 Ships, in which there were 19290 Soldiers, 8050 Marriners, 2080 Gally-Slaves, 2630 Great Ordnance, and for the greater Sanctification of the Action, 12 of their Veſſels were call'd by the Names of the 12 Apo<g ref="char:EOLhyphen"/>ſtles. The Commander in Chief of the Fleet, was <hi>Don Alphonſo,</hi> Duke of <hi>Medina;</hi> the next in Au<g ref="char:EOLhyphen"/>thority was <hi>Martin Recalde,</hi> an Able Seaman. They came out of the <hi>Groyn</hi> in <hi>May,</hi> but were diſ<g ref="char:EOLhyphen"/>perſed, and the Queen in the mean time made the following Prepara<g ref="char:EOLhyphen"/>tions; the Lord <hi>Charles Howard</hi> Lord Admiral of her whole Navy, and Sir <hi>Francis Drake</hi> Vice-Admi<g ref="char:EOLhyphen"/>ral, were to be ready at <hi>Plimouth;</hi>
+                  <pb n="82" facs="tcp:49366:46"/>the Lord <hi>Henry Seymor</hi> (ſecond Son to the Duke of <hi>Somerſet</hi>) with 40 Engliſh and Dutch Ships to guard the Coaſts of the <hi>Nether<g ref="char:EOLhyphen"/>lands,</hi> and keep the Prince of <hi>Par<g ref="char:EOLhyphen"/>ma</hi> from coming forth for Land-Service. Thre were placed along our Southern Coaſts 20000 Sol<g ref="char:EOLhyphen"/>diers, and two Armies of Trained Men Levied, the one commanded by the Earl of <hi>Leiceſter,</hi> conſiſting of 1000 Horſe, and 22000 Foot, who pitch'd his Tents at <hi>Tilbury;</hi> over the other (appointed as a Guard to Her Majeſties Royal Perſon) conſiſting of 24000 Foot, and 2000 Horſe, the Lord <hi>Hunſ<g ref="char:EOLhyphen"/>don</hi> was General.</p>
+               <p>Now all things on both ſides being in a readineſs, the <hi>Spaniſh</hi> Navy ſet forth in <hi>May,</hi> as before, but were drawn back and diſtreſ<g ref="char:EOLhyphen"/>ſed, and their firſt Appearance was <hi>July</hi> the 21th. The Admiral
+<pb n="83" facs="tcp:49366:46"/>of <hi>England,</hi> coming out of <hi>Pli<g ref="char:EOLhyphen"/>mouth,</hi> ſent a Pinnace, nam'd, <hi>The Defiance,</hi> before; which, by a Great Shot, Challenged the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> to Fight, and they ſpeedily fell to it, but the <hi>Engliſh</hi> had the better.</p>
+               <p>The 23th of this Month they had a ſecond Fight, where there was little hurt done by the <hi>Spaniards;</hi> the 24th they reſted on both ſides, and the 25th which was St. <hi>James</hi> his Day, they fell to it the third time, and the <hi>Engliſh</hi> got the bet<g ref="char:EOLhyphen"/>ter; after which the <hi>Spaniards</hi> held on their Courſe, and turn'd no more upon us.</p>
+               <p>The 27th of the Month, towards evening, the <hi>Spaniards</hi> caſt Anchor near <hi>Calice,</hi> the <hi>Engliſh</hi> then ha<g ref="char:EOLhyphen"/>ving 140 Ships; tho but 15 of them bore the brunt of the Battle.</p>
+               <pb n="84" facs="tcp:49366:47"/>
+               <p>The 28th the Lord Admiral made eight of his worſt Veſſels Fire-ſhips, and ſent them in the Night to the <hi>Spaniſh</hi> Fleet; at the ſight whereof, they made a hide<g ref="char:EOLhyphen"/>ous noiſe, cut their Cables with great confuſion and aſtoniſhment.</p>
+               <p>The <hi>Spaniſh</hi> Navy being now deſtitute of many neceſſary Pro<g ref="char:EOLhyphen"/>viſions, and no hope of the Prince of <hi>Parma</hi>'s Aſſiſtance, reſolv'd for <hi>Spain</hi> Northward, in which they loſt many Ships and Men; the <hi>Engliſh</hi> Navy ſtill purſued cloſely, till they were fain to leave them, for want of Powder.</p>
+               <p>Thus this Invincible <hi>Armada,</hi> (for ſo it was ſtyl'd in a <hi>Spaniſh</hi> Bravado) that was three whole years preparing; in the ſpace of one Month was often beaten, and at length put to flight; many of their men ſlain, above half their Ships
+<pb n="85" facs="tcp:49366:47"/>taken and ſunk; not above 100 of the <hi>Engliſh</hi> miſſing at the moſt; not ſo much as a Ship, but <hi>Cock</hi>'s ſmall Veſſel; thus ſailing about all <hi>Britain</hi> by <hi>Scotland,</hi> the <hi>Orkneys</hi> and <hi>Ireland,</hi> they return'd to <hi>Spain</hi> with as great diſhonour, as they ſet out with Oſtentation; for in<g ref="char:EOLhyphen"/>deed, <hi>Mendoſa</hi> in <hi>France</hi> Trium<g ref="char:EOLhyphen"/>phed before the Victory in Print. Now Q. <hi>Elizabeth</hi> for this Happy Succeſs, appointed Prayers and Thankſgiving in all Churches throughout <hi>England;</hi> and She (as it were in Triumph) came in Per<g ref="char:EOLhyphen"/>ſon attended with a numerous Train of her Nobility into the Ci<g ref="char:EOLhyphen"/>ty, went into the Cathedral of St. <hi>Paul</hi>'s (where the Banners ta<g ref="char:EOLhyphen"/>ken from the Enemy were pub<g ref="char:EOLhyphen"/>lickly expoſed to the view of Spe<g ref="char:EOLhyphen"/>ctators) and there gave thanks to Almighty God in a moſt humble manner, for ſo great a Deliverance from, and defeat of a Foreign Enemy.</p>
+            </div>
+            <div type="part">
+               <pb n="86" facs="tcp:49366:48"/>
+               <head>St. James.</head>
+               <p>
+                  <hi>July</hi> the 25th, is the Feaſt of St. <hi>James</hi> (Hebr. the ſame as <hi>Jacob</hi>) the Apoſtle, ſirnamed the Greater, Brother to St. <hi>John,</hi> the Sons of <hi>Ze<g ref="char:EOLhyphen"/>bedee,</hi> who was both an Apoſtle, and Martyr: This is he that Taught the Goſpel to the 12 diſperſed Tribes; and was Murdered by the Sword; or (as ſome ſay) Beheaded in <hi>Judaea</hi> by <hi>Herod Agrippa, Anno Dom.</hi> 45. where he was buried, and conſequently the firſt of the 12 Apoſtles that was tranſlated to the Kingdom of Chriſt.</p>
+               <p>This is one of the King's Collar-Days without Offering.</p>
+            </div>
+            <div type="part">
+               <head>St. Anne.</head>
+               <p>The next day, being the 26th, is by ſome People Celebrated to
+<pb n="87" facs="tcp:49366:48"/>the Memory of St. <hi>Anne</hi> (Hebr. <hi>Gracious</hi>) who was the Holy Mo<g ref="char:EOLhyphen"/>ther of the Bleſſed Virgin. This Day is not in our, but the Roman Rubrick.</p>
+            </div>
+            <div type="part">
+               <head>Lammas-Day.</head>
+               <p>
+                  <hi>Auguſt</hi> begins with a Feaſt; the firſt, being call'd <hi>Lammas-Day,</hi> the <hi>Gule,</hi> or <hi>Yule</hi> of <hi>Auguſt,</hi> St. <hi>Pe<g ref="char:EOLhyphen"/>ter advincula,</hi> or St. <hi>Peter</hi>'s Chains. 'Tis nam'd <hi>Lammas,</hi> qu. <hi>Lamb-maſs;</hi> becauſe on that Day in the time of Popery here among us in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the Tenants that held Lands of the Cathedral Church in <hi>York</hi> (which is Dedicated to St. <hi>Peter ad vincula</hi>) were obliged by their Tenure on that day, to bring a live Lamb into the Church, whil'ſt they were ſinging <hi>High-Maſs,</hi> or (as ſome conceive) it may take its Derivation from the <hi>Saxon, Hlar<g ref="char:EOLhyphen"/>maeſſe,</hi> i.e. <hi>Loaf-Maſs,</hi> or <hi>Bread-Maſs</hi>
+                  <pb n="88" facs="tcp:49366:49"/>ſo call'd, as a Feaſt of Thankſgiving to God for the firſt fruits of the Corn, and it ſeems hath been obſerv'd with Bread made of new Wheat; and accor<g ref="char:EOLhyphen"/>dingly it is a Cuſtom in ſome Pla<g ref="char:EOLhyphen"/>ces, for Tenants to be bound to bring their Lord that years Wheat, on or before the firſt of <hi>Auguſt. Ham. Reſol.</hi> 2.6. <hi>Quaeries p.</hi> 465.</p>
+               <p>'Tis call'd the <hi>Gule</hi> or <hi>Yule</hi> of <hi>Auguſt,</hi> which ſome Conjecture to be only a Corruption of the <hi>Bri<g ref="char:EOLhyphen"/>tiſh</hi> word <hi>Gwyl-Awſt,</hi> that is, the Feaſt of <hi>Auguſt.</hi> Others again conceive (and I think more truly) that <hi>Gule</hi> comes from <hi>Gula</hi> in La<g ref="char:EOLhyphen"/>tin, or <hi>Gueule</hi> in French, a Throat; and <hi>St. Peter ad vincula</hi> for this Reaſon following, which you have in <hi>Durand's Rationali Divinor.</hi> l. 7. Ca. <hi>De feſto Sancti Petri ad vincula:</hi> (a Catholick Story)
+<pb n="89" facs="tcp:49366:49"/>that one <hi>Quirinus</hi> a Tribune of <hi>Rome,</hi> had a Daughter who was troubled with a painful Diſeaſe in her Throat; and therefore, (I preſume, other means failing) Addreſſed himſelf to his then Ho<g ref="char:EOLhyphen"/>lineſs <hi>Alexander</hi> the 6th of that Name, from St. <hi>Peter;</hi> and de<g ref="char:EOLhyphen"/>ſir'd to borrow or ſee the Chains that St. <hi>Peter</hi> was chained with under <hi>Nero;</hi> which Requeſt be<g ref="char:EOLhyphen"/>ing obtain'd; his Daughter kiſſing the ſaid Chains, was as miracu<g ref="char:EOLhyphen"/>louſly, as Immediately cur'd of her Malady—<hi>(Credat Judaeus Appella, —Non Ego)</hi>—whereupon <hi>Quirinus</hi> with his whole Family turn'd Chriſtians, and were bap<g ref="char:EOLhyphen"/>tized: <hi>Tunc dictus</hi> Alexander Papa (as <hi>Durand</hi> hath it) <hi>hoc Feſtum in Calendis</hi> Auguſti <hi>Celebrandum In<g ref="char:EOLhyphen"/>ſtituit, &amp; in Honorem Beati Petri Eccleſiam in Urbe Fabricavit, ubi Vincula ipſa repoſuit, &amp; ad vincula Nominavit, &amp; Calendis</hi> Auguſti
+<pb n="90" facs="tcp:49366:50"/>
+                  <hi>Dedicavit;</hi> ſo that this Day being before only known by the Name of the Calends of <hi>Auguſt,</hi> was af<g ref="char:EOLhyphen"/>terward upon this very occaſion termed, either of the Inſtrument that wrought this Miracle, the Day of St. <hi>Peter ad vincula,</hi> or of the part of the Daughter, namely, the Throat, whereon the Miracle was wrought, the <hi>Gule</hi> of <hi>Auguſt.</hi> This day is kept by the Papiſts, as they ſay, in Honour of thoſe Chains, wherewith <hi>Herod</hi> cauſed St. <hi>Peter</hi> at <hi>Jeruſalem;</hi> to be bound, from which he was diſengaged by the Angel of God, <hi>Acts</hi> the 12th. by the ſole Touch whereof, not only the fore-men<g ref="char:EOLhyphen"/>tioned, but many other Miracles were wrought; nay, ſome of that Church are ſo ſuperſtitiouſly Cre<g ref="char:EOLhyphen"/>dulous, as to believe their Mira<g ref="char:EOLhyphen"/>culous joyning together many years after into one intire Chain, with thoſe Iron Fetters wherewith
+<pb n="91" facs="tcp:49366:50"/>the Holy Apoſtle was loaden, when he was Impriſoned at <hi>Rome.</hi>
+               </p>
+               <p>
+                  <hi>Auguſt</hi> the 5th. in ſome of our ancient Calendars, is known by the name of <hi>Gowrie's Conſpiracy,</hi> and tho now omitted, (the reaſon thereof you ſhall ſoon under<g ref="char:EOLhyphen"/>ſtand) yet it was kept very de<g ref="char:EOLhyphen"/>voutly in the Reign of King <hi>James,</hi> as a Day of Thankſgiving to the Almighty for his Delive<g ref="char:EOLhyphen"/>rance from the Treacherous Con<g ref="char:EOLhyphen"/>ſpiracy of the <hi>Gowries</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p>The Story runs thus, as <hi>Baker</hi> relates it in his Chronicle, <hi>p.</hi> 382. out of which take this Abſtract. The Earls <hi>Gowry, Marre, Lindſey,</hi> and others, Invited the King to the Caſtle of <hi>Reuthen</hi> (in the ab<g ref="char:EOLhyphen"/>ſence of the Earl of <hi>Arran</hi> and <hi>Lenox</hi>) and there detain'd him,
+<pb n="92" facs="tcp:49366:51"/>not permitting him to walk a<g ref="char:EOLhyphen"/>broad; all his Truſty Servants they remov'd from him, and Compel'd the King by Letters to Queen <hi>Elizabeth</hi> to approve and allow of this his Thraldom. After his Mother Queen <hi>Mary</hi> had ſent to Queen <hi>Elizabeth,</hi> complain<g ref="char:EOLhyphen"/>ing of the Uſage of her Son, he himſelf ſent Colonel <hi>William Steward,</hi> and <hi>John Colvill</hi> to the Queen of <hi>England;</hi> and after the Death of <hi>Lenox</hi> in <hi>France,</hi> the Surprizers being lifted up in their Conceits, thinking they had him ſafe enough; he, on a ſudden (tho ſcarce 18 years of age) with ſome few others, convey'd him<g ref="char:EOLhyphen"/>ſelf to the Caſtle of St. <hi>Andrews,</hi> to whom the Nobility Repair'd, with Armed Bands, fearing ſome dan<g ref="char:EOLhyphen"/>ger might befall him; afterward with fair words he adviſed ſome of his Surprizers to go from Court to avoid Tumult, promi<g ref="char:EOLhyphen"/>ſing
+<pb n="93" facs="tcp:49366:51"/>them Pardon, if they would crave it; but <hi>Gowry</hi> only asked Pardon, and ſubmitted himſelf, uſing this Diſtinction, that he had not offended in Matter, but in Form: and farther, <hi>Baker</hi> ſaith, <hi>p.</hi> 384. that <hi>Gowry</hi> was tried by his Peers at <hi>Sterling, Anno</hi> 1600. where being accus'd of many Treaſons, tho he gave colourable Anſwers to them all; yet was found Guilty, Condemn'd, and Beheaded; whoſe Head his Ser<g ref="char:EOLhyphen"/>vants ſewing to the Body, com<g ref="char:EOLhyphen"/>mitted to the Grave.</p>
+               <p>
+                  <hi>Baker</hi> farther ſaith, <hi>p.</hi> 428. At this time, <hi>Anno</hi> 1603. the King for<g ref="char:EOLhyphen"/>gat not a Deliverance he formerly had; which tho it were in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> yet he would have notice taken of it in <hi>England,</hi> which was this his Deliverance from the Conſpiracy of the <hi>Gowries,</hi> on the 5th of <hi>Auguſt</hi> 1600. three
+<pb n="94" facs="tcp:49366:52"/>years before, and thereupon, <hi>Fri<g ref="char:EOLhyphen"/>day,</hi> being the 5th day, was by Commandment appointed to be Holy-Day; with Morning-Prayer, Sermon, and Evening-Prayer read, with Bonefires at Night, which was then, and after, during his Life, ſolemnly obſerv'd.</p>
+               <p>
+                  <hi>Auguſt</hi> the 6th. is the <hi>Transfi<g ref="char:EOLhyphen"/>guration;</hi> (from <hi>Transfiguro,</hi> Lat. <hi>to change ſhape</hi>) a Feaſt Celebra<g ref="char:EOLhyphen"/>ted by the Papiſts in Memory of our Saviour's Transfiguring him<g ref="char:EOLhyphen"/>ſelf upon Mount <hi>Thabor,</hi> and ſhewing a Glimpſe of his Glory to his Apoſtles, St. <hi>Peter,</hi> St. <hi>James,</hi> and St. <hi>John; And his Face</hi> (ſaith the Text) <hi>ſhone as the Sun, and his Garment became white as Snow,</hi> Matth. 17.2. and in them alſo un<g ref="char:EOLhyphen"/>to us, for our encouragement to Vertue, Perſeverance in Faith and mutual Love one toward ano<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div type="part">
+               <pb n="95" facs="tcp:49366:52"/>
+               <head>St. Laurence.</head>
+               <p>The 10th of this Month, is a Day Dedicated to St. <hi>Laurence</hi> (Lat. <hi>flouriſhing like a Bay-Tree;</hi> the ſame as <hi>Daphnis</hi> in Greek) who was Deacon to Pope <hi>Xi<g ref="char:EOLhyphen"/>ſtus,</hi> then ſitting in the Chair at <hi>Rome,</hi> a very Zealous Perſon, ac<g ref="char:EOLhyphen"/>cording to Tradition, for the Ca<g ref="char:EOLhyphen"/>tholick Cauſe; who thereupon in the Primitive times, was by the Cruel and Barbarous Pagans, moſt inhumanely Broyled on a Grid<g ref="char:EOLhyphen"/>iron, for the Faith of Chriſt; which Martyrdom he ſuffered with undaunted and matchleſs Fortitude. This is in the Roman, but not in our Rubrick.</p>
+            </div>
+            <div type="part">
+               <pb n="96" facs="tcp:49366:53"/>
+               <head>
+                  <hi>The Aſſumption of the Bleſſed Virgin</hi> Mary.</head>
+               <p>The 15th of this Month is, <hi>The Aſſumption of the Bleſſed Virgin Mary,</hi> the Mother of the Holy <hi>Jeſus,</hi> ſo call'd from <hi>Aſſumo,</hi> Lat. <hi>to aſſume, or take up;</hi> 'tis obſerv'd in Memory of her being Aſſum'd, or taken up (as the Papiſts confi<g ref="char:EOLhyphen"/>dently maintain) into Heaven, both Soul and Body after her Dor<g ref="char:EOLhyphen"/>mition, or Diſſolution, and this is a conſtant Tradition of their Church. This is alſo in the Ro<g ref="char:EOLhyphen"/>man, not in our Rubrick.</p>
+            </div>
+            <div type="part">
+               <head>St. Bartholomew.</head>
+               <p>The next is the Feſtival of St. <hi>Bartholomew,</hi> ſolemnized on the 24th of <hi>Auguſt.</hi> The Name is <hi>Chaldee,</hi> and ſignifies the Son of him that makes the water aſcend.
+<pb n="97" facs="tcp:49366:53"/>He was Nephew (as ſome main<g ref="char:EOLhyphen"/>tain) and Heir to a King of <hi>Syria;</hi> yet both an Apoſtle, and Martyr. He Preached the Glad Tidings of the Goſpel to the <hi>Indians,</hi> where he, by the Command of <hi>Polemius,</hi> King of <hi>India,</hi> was ſorely beaten with Cudgels, the firſt day; the next Crucified and Excoriated, or flean alive, while he was faſtned on the Croſs; and finally (ſtill breathing, and alive) Beheaded in the year of our Lord 51. For this Reaſon it was named <hi>Duplex Feſtum,</hi> ſome obſerving the 25th. as we the 24th of <hi>Auguſt.</hi> Here was a Complication of Puniſh<g ref="char:EOLhyphen"/>ments for no Crime at all. This is one of His Majeſtie's Collar-Days without Offering.</p>
+               <p>The 29th is the Decollation of St. <hi>John Baptiſt.</hi> Beheaded by <hi>He<g ref="char:EOLhyphen"/>rod,</hi> at the requeſt of <hi>Herodias;</hi> which we have praementioned
+<pb n="98" facs="tcp:49366:54"/>in the Feſtival of St. <hi>John Bap<g ref="char:EOLhyphen"/>tiſt.</hi>
+               </p>
+               <p>
+                  <hi>Septemb.</hi> the 2d. On this day hapned that Dreadful Conflagra<g ref="char:EOLhyphen"/>tion of the City of <hi>London,</hi> about one of the Clock in the Morning, <hi>Anno</hi> 1666. beginning at the Houſe of one Mr. <hi>Farryner,</hi> a <hi>Baker</hi> in <hi>Pudding-Lane,</hi> near <hi>New Fiſh-Street,</hi> which conſumed in four days time the greateſt part of this Flouriſhing Metropolis. 'Tis ſup<g ref="char:EOLhyphen"/>poſed to be fired by one <hi>Robert Hubert</hi> of <hi>Roan</hi> in <hi>Normandy,</hi> with one <hi>Peidloe,</hi> the chief, there being in all 23 Complices, as he confeſ<g ref="char:EOLhyphen"/>ſed; for which he was hang'd at <hi>Tyburn,</hi> and dyed a Roman Ca<g ref="char:EOLhyphen"/>tholick.</p>
+            </div>
+            <div type="part">
+               <pb n="99" facs="tcp:49366:54"/>
+               <head>Nativity of the Bleſſed Virgin Mary.</head>
+               <p>The 8th of this Month is the <hi>Nativity of the Bleſſed Virgin</hi> Ma<g ref="char:EOLhyphen"/>ry, (Heb. <hi>Exalted,</hi> or from <hi>Marah,</hi> as ſome conceive, <hi>i. e. Bitterneſs</hi>) which is a Feſtival obſerv'd by our Holy Mother the Church, in Commemoration of her Happy and Glorious Birth, who brought into the World the Author of all Life and Salvation, our Bleſſed Lord and Saviour, Jeſus Chriſt.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Holy-tood-Day,</hi> or <hi>Holy-Croſs.</hi>
+               </head>
+               <p>The 14th. is the other <hi>Holy-rood-Day;</hi> or <hi>Holy-Croſs,</hi> (the In<g ref="char:EOLhyphen"/>vention of the Croſs being on the 3d of <hi>May,</hi> which we have given you an account of) 'tis call'd
+<pb n="100" facs="tcp:49366:55"/>
+                  <hi>Holy Croſs,</hi> or <hi>the Exaltation of the Croſs,</hi> in Memory of the Exalta<g ref="char:EOLhyphen"/>tion, or ſetting up the Holy Croſs which was found by St. <hi>Helen.</hi> (as we have already acquainted you) by <hi>Heraclius,</hi> the Emperor; who having regained it a ſecond time from the <hi>Perſians,</hi> after it had been given over for loſt, the ſpace of 14 years, carried it on his ſhoul<g ref="char:EOLhyphen"/>ders to Mount <hi>Calvarie,</hi> and there Exalted it with more than ordinary Solemnity.</p>
+               <p>Then follows the <hi>Ember-Week,</hi> according to the Rule before laid down, <hi>Poſt Cineres,</hi> &amp;c. this be<g ref="char:EOLhyphen"/>ing the third in the year, fol<g ref="char:EOLhyphen"/>lowing <hi>Holy-Croſs,</hi> or <hi>Holy-rood-Day.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. Matthew.</head>
+               <p>On the 21th of this Month, is Celebrated the Feſtival of St. <hi>Mat<g ref="char:EOLhyphen"/>thew,</hi>
+                  <pb n="101" facs="tcp:49366:55"/>(Heb. <hi>Reward</hi>) an Apoſtle, and one of the four Holy Secre<g ref="char:EOLhyphen"/>taries of the moſt Sacred Goſpel. He was by Birth a <hi>Jew,</hi> by Pro<g ref="char:EOLhyphen"/>feſſion a <hi>Publican,</hi> or <hi>Toll-Cuſtomer;</hi> was at length Converted, and became a Diſciple, Apoſtle, Euan<g ref="char:EOLhyphen"/>geliſt and Martyr. He wrote the Goſpel of Chriſt in the Hebrew Language, and delivered it to <hi>James,</hi> the Brother of our Lord, who was at that time Biſhop of <hi>Jeruſalem.</hi> He Preached in the Kingdom of <hi>Aethiopia,</hi> where he was kindly entertain'd by the Eunuch (Chamberlain, or Chief Governor to <hi>Candace,</hi> Queen of <hi>Aethiopia;</hi> as it is Record<g ref="char:EOLhyphen"/>ed in the Acts of the Apo<g ref="char:EOLhyphen"/>ſtles, <hi>Acts</hi> the 8th. 27th.) and was ſo ſucceſsful in his Teaching, that he prevail'd and perſwaded <hi>Aeglippus</hi> the King, and his People to be Baptized; but after his Deceaſe, there ſucceeded him
+<pb n="102" facs="tcp:49366:56"/>one <hi>Hyrtacus</hi> by name, who De<g ref="char:EOLhyphen"/>teſted the Apoſtle, and therefore Commanded him to be run through with a Sword; which was accordingly done, <hi>Anno Dom.</hi> 71. This is one of His Majeſtie's Collar-Days, without Offering.</p>
+            </div>
+            <div type="part">
+               <head>St. Michael the Arch-Angel.</head>
+               <p>The 29th of this Month is the Feaſt of St. <hi>Michael</hi> (Heb. <hi>who is like God) the Arch-Angel</hi> who fi<g ref="char:EOLhyphen"/>gur'd Chriſt, or <hi>Michaelmas,</hi> that is, a Solemnity or Maſs in honour of St. <hi>Michael,</hi> Prince of the Heavenly Hoſt, and one of the Nine Orders of Angels, aſ<g ref="char:EOLhyphen"/>wel to Commemorate that fa<g ref="char:EOLhyphen"/>mous Battle fought by him, and them in Heaven, againſt the red Dragon (or the Devil) and his Apoſtate Angels, <hi>Apoc.</hi> 12. in Defence of God's Honour; as
+<pb n="103" facs="tcp:49366:56"/>alſo (ſay the Romaniſts) to Com<g ref="char:EOLhyphen"/>mend the whole Church of God to their Patronage and Prayers; and by them 'tis nam'd the <hi>De<g ref="char:EOLhyphen"/>dication of St.</hi> Michael; becauſe there is a Church at <hi>Rome,</hi> dedi<g ref="char:EOLhyphen"/>cated on that day to St. <hi>Michael</hi> by Pope <hi>Boniface.</hi> This is one of King <hi>Charles</hi> his Offering-Days at His Court of <hi>Whitehall.</hi> And on this day alſo the Lord Mayor of the City of <hi>London,</hi> for the year enſuing, is Elected.</p>
+               <p>There is another Feaſt obſerv'd by the Romaniſts, call'd the Ap<g ref="char:EOLhyphen"/>parition of St. <hi>Michael,</hi> and is in Commemoration of his Won<g ref="char:EOLhyphen"/>derful Appearance on Mount <hi>Gar<g ref="char:EOLhyphen"/>ganus,</hi> where (as the Papiſts fondly flatter themſelves) by his own appointment a Temple was De<g ref="char:EOLhyphen"/>dicated to him, in the time of Pope <hi>Gelaſius.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="104" facs="tcp:49366:57"/>
+               <head>St. Luke.</head>
+               <p>
+                  <hi>October</hi> the 18th. is a Day Con<g ref="char:EOLhyphen"/>ſecrated to the Memory of St. <hi>Luke</hi> (Heb. <hi>Taken</hi>) the Euangeliſt. <hi>Sy<g ref="char:EOLhyphen"/>ria</hi> was the Place of his Nativity; by Profeſſion he was a Phyſician of <hi>Antioch,</hi> after that an Euan<g ref="char:EOLhyphen"/>geliſt, and the Holy Penman of the Acts of the Apoſtles in their Peregrination; but eſpecially of St. <hi>Paul</hi>'s. He died at <hi>Epheſus,</hi> in the 84th year of his Age, where he was inhum'd, <hi>Anno Chriſti,</hi> 74; and was (together with <hi>Andrew</hi> and <hi>Timothy</hi>) Tranſlated to <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> many years after, in the Reign of <hi>Conſtantius,</hi> Son of <hi>Conſtantine</hi> the Great; but <hi>Nice<g ref="char:EOLhyphen"/>phorus,</hi> the Hiſtorian ſays, that he was Hang'd on a Green Olive-Tree. This is one of His Ma<g ref="char:EOLhyphen"/>jeſtie's Collar-Days, without Of<g ref="char:EOLhyphen"/>fering.</p>
+               <pb n="105" facs="tcp:49366:57"/>
+               <p>The 21th of this Month Dedi<g ref="char:EOLhyphen"/>cated to <hi>Urſula</hi> (Lat. <hi>a little She-Bear</hi>) The Name of a Female Saint heretofore of great Honour, and ſtill continued in the Calendar, and this Day was kept ſolemnly in Commemoration of a Famous, Religious Britiſh Virgin, who not<g ref="char:EOLhyphen"/>withſtanding the Tenderneſs of her Sex, and her Zeal for the true Religion, was moſt Inhumanly Martyred under <hi>Attila</hi> King of the <hi>Huns;</hi> ſtyled <hi>Flagellum Dei;</hi> a Bloody, but Valiant <hi>Scythian,</hi> who over-ran <hi>Italy,</hi> and <hi>Gallia;</hi> and at the Perſwaſion; or rather Intreaty of Pope <hi>Leo,</hi> retired into <hi>Hun<g ref="char:EOLhyphen"/>gary.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. Simon and Jude.</head>
+               <p>The 28th is the Feſtival of St. <hi>Simon</hi> and <hi>Jude. Simon</hi> (Heb. <hi>Hearing, or Obedient</hi>) ſirnamed
+<pb n="106" facs="tcp:49366:58"/>
+                  <hi>Zelotes</hi> (Gr. <hi>Fervent</hi>) was born in <hi>Cana,</hi> a Town of <hi>Galilee,</hi> the Son of <hi>Mary</hi> and <hi>Cleophas,</hi> as <hi>Euſeb.</hi> affirms, <hi>L.</hi> 3. <hi>C.</hi> 11. and taught the Goſpel in <hi>Aegypt</hi> and <hi>Perſia;</hi> from thence he returned, and ſuc<g ref="char:EOLhyphen"/>ceeded St. <hi>James</hi> in the Biſhoprick of <hi>Jeruſalem;</hi> where, under the Reign of the Emperor <hi>Trajan,</hi> he was Crucified in the 120th year of his Age, and conſequently the laſt Martyr of all the Apoſtles. St. <hi>Jude</hi> (Heb. <hi>Jude, Judah,</hi> and <hi>Je<g ref="char:EOLhyphen"/>hudah;</hi> all three ſignifie Con<g ref="char:EOLhyphen"/>feſſion called alſo <hi>Thaddaeus</hi> and <hi>Lebbaeus</hi>) Preached the Holy Goſpel to the <hi>Edeſſaeans;</hi> a ſort of People of <hi>Edeſſa,</hi> a City of <hi>Syria,</hi> and throughout all <hi>Meſopotamia;</hi> he was Murdered at <hi>Berytus,</hi> a City of <hi>Phoenicia,</hi> in the Reign of <hi>Ag<g ref="char:EOLhyphen"/>barus,</hi> King of <hi>Edeſſa,</hi> according to the moſt Authentick Tradition, where he was very Honorably Sepulchred, in the year of our
+<pb n="107" facs="tcp:49366:58"/>Lord 21. This is one of His Majeſtie's Collar-Days, without Offering.</p>
+               <p>The next day after, being the 29th, is a day whereon the Ele<g ref="char:EOLhyphen"/>cted Mayor for that year, accom<g ref="char:EOLhyphen"/>panied with the Aldermen of <hi>London</hi> on Horſeback to the River of <hi>Thames;</hi> and the Com<g ref="char:EOLhyphen"/>panies of Freemen wait upon him in Barges, with Drums and Trumpets, to <hi>Weſtminſter,</hi> and there he walks with the Aldermen round the <hi>Hall,</hi> and then goes up to the Exchequer, where he is Sworn, and returns to the City; and at his Landing, he is waited upon by ſeveral Companies of Sol<g ref="char:EOLhyphen"/>diers, and ſeveral ſtately Pageants are erected, and carried about in a Triumphant manner.</p>
+            </div>
+            <div type="part">
+               <pb n="108" facs="tcp:49366:59"/>
+               <head>All Saints.</head>
+               <p>
+                  <hi>November</hi> 1ſt. Begins with the Feſtival of <hi>All Saints,</hi> or <hi>Allhallows,</hi> and this time is commonly call'd <hi>Allhallontide;</hi> Tis a Solemnity in Honour and Memory of all the Saints, (as the Papiſts maintain) that ſo at leaſt they may obtain the Patronage and Prayers of them all; ſince the whole year is much too ſhort to afford us a Particular Feaſt for every Saint.</p>
+            </div>
+            <div type="part">
+               <head>All Souls.</head>
+               <p>The next day, <hi>Novemb.</hi> 2d. is <hi>All-Souls;</hi> a Day Inſtituted by the Church of <hi>Rome,</hi> in Comme<g ref="char:EOLhyphen"/>moration of all the Faithful de<g ref="char:EOLhyphen"/>parted this Life; that by the Prayers and Suffrages of the Liv<g ref="char:EOLhyphen"/>ing, they may be diſcharged of their purging Pains, and at laſt
+<pb n="109" facs="tcp:49366:59"/>obtain Life Everlaſting; to this purpoſe the Day is kept Holy till Noon. Hence proceeds the Cu<g ref="char:EOLhyphen"/>ſtom of <hi>Soul-Maſs Cakes;</hi> which are a kind of Oat-Cakes, that ſome of the Richer ſort of Perſons in <hi>Lancaſhire,</hi> and <hi>Herefordſhire</hi> (a<g ref="char:EOLhyphen"/>mong the Papiſts there) uſe ſtill to give the Poor, on this Day; and they in Retribution of their Charity, hold themſelves obliged to ſay this old Couplet,
+<q>—<hi>God have your Saul Beens and all.</hi>
+                  </q>
+               </p>
+               <p>Both theſe days were of ſuch eminent obſervance with our An<g ref="char:EOLhyphen"/>ceſtors, that they ſtill continue no Court-days at <hi>Weſtminſter-Hall,</hi> but are the Lawyers and Judges Holy-days. <hi>All-Saints</hi> is one of His Majeſtie's Offering-Days at <hi>Whitehall,</hi> and one of the Hou<g ref="char:EOLhyphen"/>ſhold-days, when the Beſant is
+<pb n="110" facs="tcp:49366:60"/>given by the Lord Steward; or one of the other White-Staff-Officers.</p>
+               <p>
+                  <hi>November</hi> the 5th, commonly call'd <hi>Gun-Powder-Treaſon-Day, Anno</hi> 1605. and in the third-year of the Reign of King <hi>James,</hi> in <hi>England,</hi> of Happy Memory, of which take this Brief Narrative Collected out of Sir <hi>Richard Baker,</hi> in the ſaid King's Reign. The 19th day of <hi>March</hi>-was a ſecond Parliament appointed to ſit at <hi>Weſtminſter,</hi> &amp; the ſaid Parliament beginning, the King made a long and Loving Speech to both Houſes wherein he ſignified the Cauſe of his Calling it; but in the time, when it ſhould have pro<g ref="char:EOLhyphen"/>ceeded, there was ſuddenly diſ<g ref="char:EOLhyphen"/>covered a Plot of Treaſon, ſo Dam<g ref="char:EOLhyphen"/>nable, and Foul, that Poſterity will hardly think it true, when they ſhall hear of it. The Plot
+<pb n="111" facs="tcp:49366:60"/>was to blow up with Gun-powder both Houſes of Parliament, at a time when the King, Prince, and all the Nobility ſhould be ſit<g ref="char:EOLhyphen"/>ting in the Upper Houſe, and all the Knights and Burgeſſes in the Lower.</p>
+               <p>The Principal Contriver of this Plot, was <hi>Robert Cateſby;</hi> a Gen<g ref="char:EOLhyphen"/>tleman of great account in <hi>Nor<g ref="char:EOLhyphen"/>thamptonſhire,</hi> deſcended from that <hi>Cateſby,</hi> who had been a ſpecial Councellor of King <hi>Richard</hi> the 3d. to whoſe Family the Divine Providence had now ordain'd a diſaſtrous Period. This <hi>Cateſby,</hi> not able to perform the Work alone, draws in many to aſſiſt him; as namely, <hi>Tho. Piercy, Tho. Winter, John Graunt, Am<g ref="char:EOLhyphen"/>broſe Rookwood, John Wright, Francis Treſham, Guido Fawks,</hi> and at laſt Sir <hi>Everard Digby,</hi> all earneſt Papiſts, and all bound by
+<pb n="112" facs="tcp:49366:61"/>Oath, and by receiving the Sacra<g ref="char:EOLhyphen"/>ment, To be ſecret for effecting this Plot, they hired a Houſe cloſe adjoining to the Upper Houſe of Parliament, where they were to dig through a Wall for the fit placing of their Powder; about <hi>Candlemas</hi> they had wrought the Wall half through, and ſuddenly they heard a noiſe in the next Room, which made them fear they had been diſcovered; but ſending <hi>Guy Fawks</hi> (who went now under the Name of <hi>John Johnſon,</hi> as Mr. <hi>Piercy</hi>'s Man) to ſee what the matter was, he brought word, that it was a Cellar, where Sea-Coals had been laid, and were now a Selling, and the Room offered to be Let for a yearly Rent: this Room there<g ref="char:EOLhyphen"/>fore, as moſt fit for their purpoſe, being right under the Parliament-Houſe, Mr. <hi>Piercy</hi> preſently went and hired, laying into it 20 Bar<g ref="char:EOLhyphen"/>rels
+<pb n="113" facs="tcp:49366:61"/>of Powder, which were co<g ref="char:EOLhyphen"/>vered with Billets and Faggots, that they might not be diſ<g ref="char:EOLhyphen"/>covered.</p>
+               <p>Thus the 1ſt part of the Plot was put in good readineſs, it now remain'd to conſider what was to be done, when the Blow ſhould be given, intending to ſurprize the Duke of <hi>York,</hi> who was abſent, and the Lady <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> at the Lord <hi>Harrington</hi>'s, in <hi>Warwickſhire,</hi> where ſhe then lay, under pretence of a Match at Hunting, near <hi>Dunchurch;</hi> but their Tenderneſs, leſt their Friends ſhould Periſh, overthrows them; for to prevent ſuch Promiſcuous Slaughter, a Letter was framed, and ſent to the Lord <hi>Monteagle,</hi> Son and Heir of the Lord <hi>Morley,</hi> brought him by one of his Foot-men, which he re<g ref="char:EOLhyphen"/>ceiv'd from an unknown Man
+<pb n="114" facs="tcp:49366:62"/>in the Street. The Letter was as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>My Lord,</salute>
+                     </opener>
+                     <p>
+                        <hi>OUt of the Love I bear to ſome of your Friends, I have a care of your Preſer<g ref="char:EOLhyphen"/>vation; therefore I would wiſh you (as you tender your Life) to forbear your Attendance at this Parliament; for God and Man have Concurr'd to Puniſh the Wickedneſs of this Time; and think not ſlightly ef this Ad<g ref="char:EOLhyphen"/>vertiſement; for tho there be no Appearance of any ſtir, yet I ſay, they ſhall receive a terrible Blow, this Parliament, and yet ſhall not ſee who hurts them. This Counſel is not to be Con<g ref="char:EOLhyphen"/>temn'd,
+<pb n="115" facs="tcp:49366:62"/>becauſe it may do you good, and can do you no harm; for the Danger is paſt, as ſoon as you have burn'd this Letter; and I hope you will make good uſe of it.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>My Lord having read this Let<g ref="char:EOLhyphen"/>ter, tho much perplex'd, yet went preſently to the Court, (the King being then a Hunting at <hi>Roy<g ref="char:EOLhyphen"/>ſton)</hi> and delivered it to the Earl of <hi>Salisbury,</hi> Principal Secretary of State; and the Earl having read it, acquainted firſt the Lord Cham<g ref="char:EOLhyphen"/>berlain with it, and then the Lord Admiral, the Earls of <hi>Worceſter,</hi> and <hi>Northampton;</hi> who, as ſoon as the King was return'd from Hunt<g ref="char:EOLhyphen"/>ing, acquainted him with it; but the King apprehended ſome Vio<g ref="char:EOLhyphen"/>lent Motion, and that it muſt be ſome ſudden danger by Blowing
+<pb n="116" facs="tcp:49366:63"/>up with Powder; and diligent ſearch being made by the Lord Chamberlain, and the Lord <hi>Mon<g ref="char:EOLhyphen"/>teagle,</hi> who entring the Cellar, found great ſtore of Faggots and Billets, and more diligent ſearch being made, there were found under the Billets 36 Barrels of Powder, together with other In<g ref="char:EOLhyphen"/>ſtruments fit for their purpoſe, and apprehended <hi>Fawx</hi> there, and found in his Pocket a piece of Touch-wood, a Tinder-box to light the Touch-wood, and a Watch, which Mr. <hi>Piercy</hi> had bought the day before, to try the ſhort, or long burning of the Touch-wood, that was prepared to give fire to the Train of Powder. Moſt of the Confede<g ref="char:EOLhyphen"/>rates met at <hi>Dunchurch,</hi> according to Agreement; but the Plot being thus Diſcovered, <hi>Cateſby</hi> &amp; <hi>Piercy</hi> were both ſlain, coming out of Mr. <hi>Littleton</hi>'s Houſe in <hi>Worceſter<g ref="char:EOLhyphen"/>ſhire;</hi>
+                  <pb n="117" facs="tcp:49366:63"/>ſo were <hi>John</hi> and <hi>Chriſtopher Wright,</hi> the reſt taken; and on the 27th of <hi>January</hi> following, a Commiſſion was directed to divers Lords, and Judges of both Ben<g ref="char:EOLhyphen"/>ches, for Trial of the reſt of the Confederates, who were all Con<g ref="char:EOLhyphen"/>demn'd, and had Judgment to Die; and on the <hi>Thurſday</hi> following, Sir <hi>Everard Digby, Robert Winter, Graunt,</hi> and <hi>Bates,</hi> were accor<g ref="char:EOLhyphen"/>dingly Drawn, Hang'd, and Quar<g ref="char:EOLhyphen"/>ter'd at the <hi>Weſt End</hi> of St. <hi>Paul</hi>'s Church, <hi>London;</hi> and on <hi>Friday</hi> the other four, <hi>Tho. Winter, Keyes, Rookwood,</hi> and <hi>Fawks,</hi> were Exe<g ref="char:EOLhyphen"/>cuted in the <hi>Parliament-Yard</hi> at <hi>Weſtminſter.</hi> This Plot was Diſ<g ref="char:EOLhyphen"/>covered to the Rejoycing of all People; inſomuch that the King of <hi>Spain</hi>'s, and the Arch-Duke's Embaſſadors made Bone-fires, and threw Money among the People, in token of Joy.</p>
+               <pb n="118" facs="tcp:49366:64"/>
+               <p>And now King <hi>James,</hi> not to be unmindful of the Lord <hi>Mountea<g ref="char:EOLhyphen"/>gle,</hi> for being the means of Diſco<g ref="char:EOLhyphen"/>vering this Treaſon, gave him in Fee-farm of Crown-Lands 2000 <hi>l.</hi> to him and his Heirs, and 500 <hi>l.</hi> a year beſides, during his Life; and not to be Unthankful to God for the Deliverance, he cauſed the 5th of <hi>November,</hi> being the day of the Diſcovery, to be kept Holy with Prayers, and Thankſgiving to God, which was then ſolemnly perform'd, and hath been ſince, and is likely for ever to be conti<g ref="char:EOLhyphen"/>nued.</p>
+               <p>The 28th of <hi>March</hi> following, <hi>Henry Garnet,</hi> Provincial of the <hi>Engliſh</hi> Jeſuits, was Arraign'd in <hi>Guild-hall,</hi> for concealing the afore<g ref="char:EOLhyphen"/>ſaid Treaſon, where he had Judg<g ref="char:EOLhyphen"/>ment to be Drawn, Hang'd; and Quarter'd; and accordingly on the 3d of <hi>May,</hi> was Drawn from
+<pb n="119" facs="tcp:49366:64"/>the <hi>Tower</hi> unto the <hi>Weſt End</hi> of St. <hi>Paul</hi>'s Church, and there Exe<g ref="char:EOLhyphen"/>cuted.</p>
+               <p>At his Death he Confeſſed his Fault, asked Forgiveneſs, and Exhorted all Papiſts never to At<g ref="char:EOLhyphen"/>tempt any Treaſon againſt the King, or State, as a Courſe which God would never proſper. By an Act 3d <hi>Jac.</hi> 'tis ordain'd, that all Perſons appear at their Pariſh-Church, for the Obſervation of this Day. This is one of his Majeſtie's Collar-days without Offering.</p>
+            </div>
+            <div type="part">
+               <head>Queen Katharines Birth-Day.</head>
+               <p>
+                  <hi>November</hi> the 15th, is the <hi>Birth-Day</hi> of our moſt Gracious Queen <hi>Katharine</hi> (Gr. <hi>Pure)</hi> whom God preſerve, and grant her length of Days, Health and Happineſs in this world, and in the world to come.</p>
+               <pb n="120" facs="tcp:49366:65"/>
+               <p>The 19th of this Month is Ce<g ref="char:EOLhyphen"/>lebrated in Commemoration of the Nativity of our King <hi>Charles</hi> the Firſt, of Bleſſed Memory, a Royal Monarch, and Glorious Martyr, who was born this day, at <hi>Dunfernling,</hi> in <hi>Scotland, Anno Dom.</hi> 1600 and is placed in our Engliſh Rubrick.</p>
+               <q>
+                  <hi>Preſentation of the Virgin</hi> Mary.</q>
+               <p>The 20th, or as ours hath it the 21th of this Month, is the <hi>Pre<g ref="char:EOLhyphen"/>ſentation of the Virgin</hi> Mary, in the Roman Rubrick; a Feaſt in Com<g ref="char:EOLhyphen"/>memoration of her being preſen<g ref="char:EOLhyphen"/>ted in the Temple at the age of three years, where ſhe Vowed her ſelf to God, both Soul, and Body.</p>
+            </div>
+            <div type="part">
+               <pb n="121" facs="tcp:49366:65"/>
+               <head>St. Clement.</head>
+               <p>The 23th, is Dedicated to St. <hi>Cle<g ref="char:EOLhyphen"/>ment</hi> (Lat. <hi>Merciful)</hi> who was Fellow-Labourer with St. <hi>Paul,</hi> and according to all Probability, <hi>Rome</hi> was his Native Place, de<g ref="char:EOLhyphen"/>ſcended of a Noble Race; his Fa<g ref="char:EOLhyphen"/>ther's Name <hi>Fauſtinus,</hi> or as ſome think <hi>Fauſtus;</hi> he was the Youn<g ref="char:EOLhyphen"/>geſt of three Sons; he had the good fortune to be under the Pupilage of St. <hi>Barnabas</hi> in <hi>Judaea,</hi> who came to <hi>Rome,</hi> and followed him to <hi>Alexandria, Judaea</hi> and <hi>Caeſarea,</hi> where he met with St. <hi>Peter</hi> who Diſcipled, Baptized, and as ſome over-conſecrated him Biſhop of <hi>Rome.</hi> Now that which made him Martyr was this: He had Converted the Noble Roman La<g ref="char:EOLhyphen"/>dy <hi>Theodora,</hi> and her Husband <hi>Siſinnius,</hi> Kinſman and Favorite to the then late Emperor <hi>Nerva;</hi>
+                  <pb n="122" facs="tcp:49366:66"/>and for this <hi>Torcutianus,</hi> a Grandee of <hi>Rome,</hi> with the Mutinous Rab<g ref="char:EOLhyphen"/>ble, charging him with Magick and Sorcery, the Emperor being ac<g ref="char:EOLhyphen"/>quainted therewith by <hi>Mamerti<g ref="char:EOLhyphen"/>nus,</hi> the Praefect, he return'd this Anſwer, That he ſhould either Sa<g ref="char:EOLhyphen"/>crifice to the Gods, or be Baniſhed to a diſconſolate City, beyond the Pontick Sea, and was Tranſported thither to dig in the Mines, a hor<g ref="char:EOLhyphen"/>rid Puniſhment, <hi>Et mortiproxima;</hi> here he Converted great Num<g ref="char:EOLhyphen"/>bers, which incenſed them ſo high<g ref="char:EOLhyphen"/>ly, that <hi>Aufidianus</hi> the Preſident by the Emperor's Order, Com<g ref="char:EOLhyphen"/>manded he ſhould be caſt into the Sea, that the Chriſtians might not find his Body. There are many Miracles handed down to us by Tradition of this Pious Man; for which, ſee Dr. <hi>Cave's Apoſtolici;</hi> for we deſign but an Abridgment. He was thus deſtroy'd on the 24th, or as ſome ſay, the 9th of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi>
+                  <pb n="123" facs="tcp:49366:66"/>in the 3d year of the Emperor <hi>Trajan,</hi> about two years after his Exile, he having been nine years, and ſome controverted Months Biſhop of <hi>Rome.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>St. Andrew.</head>
+               <p>The 30th day of this Month, is the Feſtival of St. <hi>Andrew</hi> (Gr. <hi>Man<g ref="char:EOLhyphen"/>ly)</hi> the Brother of <hi>Simon Peter;</hi> by Profeſſion an Indigent Fiſherman, yet an Holy Apoſtle, and at length a Bleſſed Martyr, who Inſtructed the <hi>Scythians, Sacians, Sogdians,</hi> and the Inhabitants of the middle <hi>Sebaſtopolis,</hi> in the Goſpel of Chriſt. After this he Preached in <hi>Cappa<g ref="char:EOLhyphen"/>docia, Galatia, Bithynia;</hi> and all along the <hi>Euxine Sea:</hi> Laſtly, in <hi>Thrace, Macedonia, Theſſaly</hi> and <hi>Achaia;</hi> where in the Reign of the Emperor <hi>Veſpaſian,</hi> he was Cruci<g ref="char:EOLhyphen"/>fied by the King of the <hi>Edeſſaeans, Aegeas</hi> by Name, and Sepulchred at <hi>Patris</hi> a City of <hi>Achaia, Anno
+<pb n="124" facs="tcp:49366:67"/>Dom.</hi> 80. or thereabout. This is one of his Majeſtie's Collar-Days without Offering.</p>
+            </div>
+            <div type="part">
+               <head>Advent-Sunday.</head>
+               <p>The next is <hi>Advent-Sunday,</hi> ſo call'd <hi>ab Adventu Domini in Car<g ref="char:EOLhyphen"/>nem,</hi> and they are four in number Inſtituted by the Holy Church, to the end, that from the firſt of them, until the Nativity of our Bleſſed Lord, we might prepare our Minds for a ſober Life, and Pious Medita<g ref="char:EOLhyphen"/>tion of his Birth then approaching. <hi>Parate viam Domini, rectas facite ſemitas Dei noſtri;</hi> and this is the laſt of the Moveable Feaſts in the Calendar.</p>
+               <p>The 8th of <hi>December,</hi> is the <hi>Con<g ref="char:EOLhyphen"/>ception of the Virgin</hi> Mary, a Feaſt among the Romaniſts, Celebrated in Memory of her Miraculous Con<g ref="char:EOLhyphen"/>ception, who was conceiv'd by her
+<pb n="125" facs="tcp:49366:67"/>Parents St. <hi>Joachim</hi> and St. <hi>Anne</hi> in their old and infirm Age, and San<g ref="char:EOLhyphen"/>ctified from the very firſt inſtant in her Mothers Womb.</p>
+               <p>The 13th of this Month, is in remembrance of St. <hi>Lucia</hi> (Lat. <hi>Lightſom,</hi> or <hi>Bright</hi>) who is by Tra<g ref="char:EOLhyphen"/>dition reputed to be an Unſpotted Virgin, and Reſolute Martyreſs. This is uſually counted the Win<g ref="char:EOLhyphen"/>ter <hi>Solſtice,</hi> at which time the Sun comes to the Tropick of <hi>Capricorn.</hi>
+               </p>
+               <p>The next Week enſuing is the 4th and laſt <hi>Ember-Week</hi> in the year.</p>
+            </div>
+            <div type="part">
+               <head>St. Thomas.</head>
+               <p>The 21th is Dedicated to St. <hi>Thomas,</hi> the Apoſtle (<hi>Tho.</hi> is Hebr. <hi>a Twin,</hi> or as ſome will have it, <hi>Bottomleſs pit,</hi> he was ſirnamed <hi>Didymus,</hi> Gr. <hi>a Twin,</hi> becauſe a
+<pb n="126" facs="tcp:49366:68"/>Twin-born, or on ſome ſuch occa<g ref="char:EOLhyphen"/>ſion) was our Saviour's Holy Apo<g ref="char:EOLhyphen"/>ſtle and Martyr, who inſtructed the <hi>Parthians, Medes</hi> and <hi>Perſians</hi> in the Goſpel; as alſo the <hi>Carama<g ref="char:EOLhyphen"/>nians, Hircanians, Bactrians</hi> and <hi>Magicians,</hi> and was at laſt wounded to death with a Dart at <hi>Calamina,</hi> a City in <hi>India;</hi> and there honora<g ref="char:EOLhyphen"/>bly Interr'd, <hi>Anno Chriſti</hi> 35. This is at <hi>White-hall</hi> one of the King's Collar-days without Offering.</p>
+            </div>
+            <div type="part">
+               <head>Mat. Chriſt.</head>
+               <p>The 25th of <hi>December,</hi> beyond all Controverſie, is the Day of our Saviour's Nativity at <hi>Bethlehem,</hi> or <hi>Chriſtmas-Day</hi> (as the <hi>Saxons</hi> uſe to term their Feaſts, from the Maſs appropriated to the day, of which you have an account be<g ref="char:EOLhyphen"/>fore) which is ſufficiently and Learnedly prov'd by Modern Au<g ref="char:EOLhyphen"/>thors, namely, <hi>Edward Fiſher</hi> Eſq;
+<pb n="127" facs="tcp:49366:68"/>in his <hi>Vindication of our Goſpel-Fe<g ref="char:EOLhyphen"/>ſtivals,</hi> and the Great <hi>Selden</hi> in his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>God made Man;</hi> and by the Ancients St. <hi>Auſtin</hi> and St. <hi>Chryſoſtom.</hi> And of old <hi>Epiphany</hi> (which is Manifeſtation) was ta<g ref="char:EOLhyphen"/>ken for <hi>Chriſtmaſs</hi> Day upon this Identity of the word, it being the time, when our Saviour was in<g ref="char:EOLhyphen"/>carnated, or manifeſted in the fleſh. In the North of <hi>England,</hi> 'tis commonly call'd <hi>Yule,</hi> from the Latin <hi>Jubilum,</hi> which imports a Time of Joy and Feſtivity. The Latin or Weſtern Church nam'd it <hi>Luminaria,</hi> or the Feaſt of Lights; becauſe therein were uſed abun<g ref="char:EOLhyphen"/>dance of Lights and Tapers; or rather, (as ſome conceive) becauſe Chriſt the Light of Lights; the true Light then came into the World; and this is the Foundation and Baſis of all the other Chriſtian Feſtivals, and to be Celebrated with greateſt Solemnity and Vene<g ref="char:EOLhyphen"/>ration.
+<pb n="128" facs="tcp:49366:69"/>This is a Grand day in His Majeſties Court, and one of the Houſhold-days, when the Beſant is to be given by the Lord Ste ward, or one of the White-Staff Officers.</p>
+               <p>Immediately after <hi>Chriſtmas,</hi> fol<g ref="char:EOLhyphen"/>low as Attendants upon that high Feſtival, St. <hi>Stephans,</hi> St <hi>Johns,</hi> and St. <hi>Innocents;</hi> not that this was the very time of their Suffering; but becauſe none are thought fitter Attendants on Chriſt's Nativity, who have laid down their Lives for him, from whoſe Birth they receiv'd Spiritual Life. Dr. <hi>Spar. Rationale</hi> of theſe as they ſucceed in the Calendar.</p>
+            </div>
+            <div type="part">
+               <head>St. Stephan.</head>
+               <p>Firſt of St, <hi>Stephan,</hi> (Gr. <hi>a Crown</hi>) The Proto-Martyr; the Holy Writ gives us no particular Satisfaction; of the Countrey, Parents, or Rela<g ref="char:EOLhyphen"/>tions
+<pb n="129" facs="tcp:49366:69"/>of this Pious and Zealous Chriſtian. He was a <hi>Jew</hi> without queſtion, and by the Ancients a<g ref="char:EOLhyphen"/>greed to be ordained one of the 7 Proto-Deacons; <hi>Ut bona communia curaret, ea<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> viduis &amp; Pauperibus rectè diſtribueret;</hi> which was but part of their Office; for they were elected by our Lord to be the Apo<g ref="char:EOLhyphen"/>ſtles Coadjutors and Fellow-Labou<g ref="char:EOLhyphen"/>rers, not only to diſtribute juſtly the Alms of the Church, accor<g ref="char:EOLhyphen"/>ding to their emergent Neceſſities; but to Baptize, Preach and Abſolve too in ſome Caſes. He zealouſly and ſtrennouſly confuted the Jews in their erroneous Tenets concern<g ref="char:EOLhyphen"/>ing the true Meſſiah; maintaining that Jeſus of <hi>Nazareth</hi> was the true one foretold by the Prophets; He was for this accuſed of Blaſphe<g ref="char:EOLhyphen"/>my, Condemned and Stoned by the Jews at <hi>Jeruſalem, An. Dom.</hi> 35.</p>
+            </div>
+            <div type="part">
+               <pb n="130" facs="tcp:49366:70"/>
+               <head>St. Iohn.</head>
+               <p>The next in order is St. <hi>John</hi>'s, (<hi>John</hi> in the Hebr. ſignifies <hi>Gra<g ref="char:EOLhyphen"/>cious</hi>) who was the Brother of <hi>James,</hi> an Evangeliſt, and the beſt Beloved Apoſtle. He taught the Goſpel to the <hi>Aſiaticks,</hi> but the Tyrant <hi>Trajan</hi> Baniſhed him into <hi>Patmos,</hi> an Iſle in the <hi>Aegean</hi> Sea, where he pen'd his Holy Goſpel, which was afterward publiſhed at <hi>Epheſus</hi> by his Deacon and Hoſt. After the death of the Emperor, he return'd to <hi>Epheſus,</hi> and conti<g ref="char:EOLhyphen"/>nued there till he lived 120 years, and then died of an Apoplexy, in the year of our Saviour's Incarna<g ref="char:EOLhyphen"/>tion 104.</p>
+            </div>
+            <div type="part">
+               <head>Innocents.</head>
+               <p>The 28th. <hi>Innocents,</hi> or <hi>Childer<g ref="char:EOLhyphen"/>maſs-Day,</hi> that is the Feaſt of the
+<pb n="131" facs="tcp:49366:70"/>Children, the Holy Innocents of <hi>Bethlehem,</hi> who were Maſſacred by <hi>Herod</hi> the Great moſt Inhu<g ref="char:EOLhyphen"/>manely in our Saviour's ſtead, tho not for his ſake; among whom, his own Son (as Hiſtorians affirm) eſcaped not the fate of his Cruelty; which extorted this ſaying, from the Emperor <hi>Auguſtus Caeſar; Me<g ref="char:EOLhyphen"/>lius eſt eſſe Herodis Porcum, quam Puerum;</hi> It is better to be <hi>Herod</hi>'s Hog, than his Son.</p>
+               <p>Dr. <hi>Sparrow</hi> in his <hi>Ration.</hi> ſaith upon the account of theſe three Feſtivals. There are three kinds of Martyrdom. p. In Will, and Deed, which is the Higheſt. 2. In Will, but not in Deed. 3. In Deed, but not in Will. In this order they attend. St. <hi>Stephan</hi> 1ſt, who ſuffered both in Will and Deed; next, St. <hi>John,</hi> who ſuffered Mar<g ref="char:EOLhyphen"/>tyrdom in Will, but not in Deed; being Miraculouſly delivered out
+<pb n="132" facs="tcp:49366:71"/>of the boyling Cauldron into which he was put before <hi>Pont.</hi> Latin in <hi>Rome.</hi> Laſtly, the <hi>Holy Innocents,</hi> who ſuffered in Deed, but not in Will; yet are reckoned among the Martyrs, becauſe they ſuffered for Chriſt, whoſe Praiſe theſe his Witneſſes Confeſſed and ſhewed forth, not in ſpeaking, but in dying.</p>
+               <p>And thus we have done with the Feſtivals; only it is obſervable, that as the Romaniſts open, ſo they cloſe the year with a Feſtival in the Popiſh Rubrick, tho not in ours, which is the laſt day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> and conſequently of the year as to our Method, being a Day Dedicated to the Memory of <hi>Sylveſter,</hi> who once ſate in the Seat of <hi>Rome,</hi> and died a Confeſſor. This is in the Roman, not our Rubrick.</p>
+               <pb n="133" facs="tcp:49366:71"/>
+               <p>Now I conceive it will not be amiſs to give you a juſt, but Con<g ref="char:EOLhyphen"/>ciſe account of the Vigils and Faſts of the Church on the Eves of the Feaſts. <hi>Vigil</hi> comes from the Lat. <hi>Vigilo,</hi> and ſignifies <hi>to watch.</hi> In the time of the Apoſtles, and for ſome continuance after, when Perſecuted and Diſperſed Chri<g ref="char:EOLhyphen"/>ſtians durſt not appear in Publick, by reaſon of the many Treache<g ref="char:EOLhyphen"/>ries and daily ſnares laid for them by their violent Perſecutors, they were compell'd for their own Pre<g ref="char:EOLhyphen"/>ſervation, and Self-ſecurity to Aſ<g ref="char:EOLhyphen"/>ſemble in private Holes, Corners, and Subterranean Places, to Exer<g ref="char:EOLhyphen"/>ciſe their Religion, and Perform their Devotion to their God. But in the Primitive times immedi<g ref="char:EOLhyphen"/>ately ſucceeding the Bleſſed Apo<g ref="char:EOLhyphen"/>ſtles, when they apprehended no danger of Perſecution, they Faſted and watched in their Oratories all the whole <hi>Eaſter</hi>-Week (but thoſe
+<pb n="134" facs="tcp:49366:72"/>Faſts are now voluntary, and not injoyn'd; for there is no Faſt commanded betwixt <hi>Eaſter,</hi> and <hi>Whitſunday, Chriſtmas,</hi> and <hi>Epi<g ref="char:EOLhyphen"/>phany</hi>) and the Vigils of this Fe<g ref="char:EOLhyphen"/>ſtival, by large Waxen Tapers, were made as Light as day, through the whole City, to repre<g ref="char:EOLhyphen"/>ſent myſtically the Light of Salva<g ref="char:EOLhyphen"/>tion, then ready to diffuſe it ſe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all over the Univerſe. And this is the Original of that uſage among Chriſtians, both Men and Wo<g ref="char:EOLhyphen"/>men, to Watch and Faſt on the Eves of their High Solemnities in the Churches, and at the Tombs of the Saints departed; the Au<g ref="char:EOLhyphen"/>thors of which cuſtom are credi<g ref="char:EOLhyphen"/>bly Reported to be <hi>Diodorus</hi> of <hi>An<g ref="char:EOLhyphen"/>tioch,</hi> together with <hi>Flavianus;</hi> but in proceſs of time, this Uſage at watching and faſting at Sepul<g ref="char:EOLhyphen"/>chres was at the perſwaſion of <hi>Leontius,</hi> then Biſhop of <hi>Antioch,</hi> reſtrained to the Church only,
+<pb n="135" facs="tcp:49366:72"/>
+                  <hi>Anno</hi> 375. The Watch by Night they uſed to divide into four parts: the 1ſt Vigil began at 6 in the Eve<g ref="char:EOLhyphen"/>ning, and continued til 9; the 2d. at 9, and continued till 12; the 3d. from 12 to 3; and the 4th from 3 to 6 in the Morning. But at length theſe Promiſcuous No<g ref="char:EOLhyphen"/>cturnal Vigils were the Cauſe of Great Impiety, as ſome are of Opinion, therefore Women were denied admiſſion, becauſe as the Canon ſaith, under the pretext of Prayer, many Crimes were ſe<g ref="char:EOLhyphen"/>cretly Committed, at length the Vigils themſelves were prohibited, (tho not for the reaſon aforeſaid, others are of opinion; but rather becauſe Zeal and Fervour in Reli<g ref="char:EOLhyphen"/>gion grew cool, and Chriſtians became more remiſs in their De<g ref="char:EOLhyphen"/>votion) and the Faſts now obſerv'd on the Eves of great Feſtivals were Inſtituted in their room; yet they ſtill retain the name of Vigils, as
+<pb n="136" facs="tcp:49366:73"/>being the Denomination of a Duty requir'd therein, this was con<g ref="char:EOLhyphen"/>firm'd by Pope <hi>Innocent</hi> the 3d, about the year of the Incarna<g ref="char:EOLhyphen"/>tion 1210.</p>
+               <p>Thus you have a ſhort and true account of all the Feaſts, Faſts, Vigils, both of the Engliſh and Romiſh Rubrick; with ſeveral o<g ref="char:EOLhyphen"/>ther Holy-days not heretofore ta<g ref="char:EOLhyphen"/>ken notice of in Treatiſes of this Nature.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49366:73"/>
+         </div>
+      </body>
+   </text>
+</TEI>
